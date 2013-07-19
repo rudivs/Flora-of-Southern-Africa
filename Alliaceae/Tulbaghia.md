@@ -3,7 +3,7 @@ Perennial, spreading herbs. Smooth (not hairy), often in clumps. Usually smell s
 Sources: [Seed Plants of southern Africa][1], [Flora of Zimbabwe][2], [A Field Guide to Wild Flowers: KwaZulu-Natal and the Eastern Region][3]
 
 ####Tulbaghia acutiloba
-Up to 450mm tall. Leaves soft, narrow, grass-like. Up to 450mm long, 3-8mm wide. Flowers three or more; perianth green or reddish-brown; tepals narrow, spreading, *conspicuously recurved*. Corona orange to reddish-brown. Pleasantly scented. Flowers mainly August to November. Dry rocky grassland throughout eastern South Africa from Eastern Cape to Limpopo. Altitudes up to 1800m.
+Up to 450mm tall. Leaves soft, narrow (3-8mm), grass-like. Up to 450mm long. Flowers three or more; perianth green or reddish-brown; tepals narrow, spreading, *conspicuously recurved*. Corona orange to reddish-brown. Pleasantly scented. Flowers mainly August to November. Dry rocky grassland throughout eastern South Africa from Eastern Cape to Limpopo. Altitudes up to 1800m.
 
 Sources: [A Field Guide to Wild Flowers: KwaZulu-Natal and the Eastern Region][3], [Swaziland's Flora Database][4]
 
