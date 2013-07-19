@@ -1,14 +1,14 @@
 Perennial, spreading herbs. Smooth (not hairy), often in clumps. Usually smell strongly of garlic or onions when bruised. Rootstock a bulb or rhizome. Inflorescence an umbel with a single erect scape, emerging from 2 spathes. Flowers small with perianth fused into a tube for about half its length, with a fleshy corona emerging from the mouth of the tube. Seeds many, triangular, shiny.
-Sources: [1][], [2][], [3][]
+Sources: [Seed Plants of southern Africa][1], [Flora of Zimbabwe][2], [A Field Guide to Wild Flowers: KwaZulu-Natal and the Eastern Region][3]
 
 ### Tulbaghia acutiloba ###
 Up to 450mm tall. Leaves soft, narrow, grass-like. Up to 450mm long, 3-8mm wide. Flowers three or more; perianth green or reddish-brown; tepals narrow, spreading, *conspicuously recurved*. Corona orange to dull brown. Pleasantly scented. Flowers mainly August to November. Dry rocky grassland throughout eastern South Africa from Eastern Cape to Limpopo.
 
-Sources: [3][],[4][]
+Sources: [A Field Guide to Wild Flowers: KwaZulu-Natal and the Eastern Region][3],[Swaziland's Flora Database][4]
 
 ![map](http://redlist.sanbi.org/imgs/distribmaps/2/Plants-2027.png)
 
-Additional references: [5][], [6][]
+Additional references: [Red List][5], [iSpot][6]
 
 
 
