@@ -17,6 +17,31 @@ Bothalia 14(1): 81 (1982), nom. nov.
 
 ####Gnidia anomala
 
+Lanky shrub up to 2 m. Leaves opposite, ovate-oval to oval-oblong, densely silky hairy; involucral leaves similar. Flowers few at branch tips, pale yellow, hypanthium densely silky hairy, petaloid floral scales 8, upper stamens reduced or lacking. Sept.--Dec. Mountain slopes, SW, AP, LB, SE (Cape Peninsula to Knysna).*
+
+Source: [Cape Plants][5]
+
+---
+Flora Capensis, Vol 5 Part 2, page 1 (1925) Author: (By C. H. WRIGHT.)
+
+**Names**
+> GNIDIA anomala Meisn. [family THYMELAEACEAE], in Linnæa, xiv. 435;—Meisn. in DC. Prodr. xiv. 580; Bolus and Wolley-Dod in Trans. S. Afr. Phil. Soc. xiv. 315.
+> GNIDIA sericea Drège [family THYMELAEACEAE], in Linnæa, xx. 208.
+> GNIDIA argentea Eckl. ex Meisn. [family THYMELAEACEAE], in DC. Prodr. xiv. 581.
+
+**Information**
+a much-branched undershrub; branches at first white-pilose, finally glabrous and with slightly raised leaf-scars; upper leaves opposite, lower alternate, oval or ovate-oblong, concave, 3 1/2 lin. long, 1 1/2 lin. wide, obtuse, silky on both sides, 3–5-nerved; bracts similar to the leaves; flowers few; calyx silky outside; tube 6 1/2 lin. long, slender; lobes oblong-lanceolate, acute, 2 1/2 lin. long, 1 lin. wide, margins involute; petals 8, geminate, clavate; upper stamens absent, lower with anthers 2/3 lin. long; ovary oblong, glabrous; style filiform, 4 lin. long; stigma small. null
+
+**Distribution**
+COAST REGION: Cape Div.; stream beyond Pauls Berg, Wolley-Dod, 2929! Simons Bay, Wright! lower part of Table Mountain, Burchell, 8437! Stellenbosch Div.; near Lowrys Pass, Hottentots Holland, 1300 ft., Zeyher, 3764, Bolus, 4190! Caledon Div.; Houw Hoek, 1200 ft., MacOwan, Herb. Norm. Austr.-Afr., 248! Scott-Elliot, 1113! Burchell, 8146! on Donker Hoek Mountain, Burchell, 7946! Bredasdorp Div.; Elim, 500 ft., Schlechter, 7657! Riversdale Div.; Riversdale, Rust, 599! George Div.; between Zwart Vallei and the west end of Lange Vallei, Burchell, 5693! Knysna Div.; between Goukamma River and Groene Vallei, Burchell, 5619! SOUTH AFRICA: without locality, Wallich! Stanger!
+
+Source: [Flora Capensis][6]
+
+---
+![Gnidia anomala (Source: SANBI Redlist website)](http://redlist.sanbi.org/imgs/distribmaps/1/Plants-110873.png)
+
+Source: [SANBI Redlist website][7]
+
 ####Gnidia anthylloides
 
 ####Gnidia baurii
@@ -214,3 +239,6 @@ Bothalia 14(1): 81 (1982), nom. nov.
 [2]: http://zimbabweflora.co.zw/speciesdata/genus.php?genus_id=996 "Flora of Zimbabwe"
 [3]: http://books.google.co.za/books?id=oQd2KAAACAAJ&dq=isbn+0-620-21500-3&hl=en&sa=X&ei=0BrpUcyjBsPQhAe2s4DYCQ&redir_esc=y "Elsa Pooley, A Field Guide to Wild Flowers: KwaZulu-Natal and the Eastern Region. Natal Flora Publications Trust, 1998."
 [4]: http://www.biodiversitylibrary.org/item/15248#page/598/mode/1up "Flora Capensis"
+[5]: http://posa.sanbi.org/flora/results_browse.php?src=CP&taxon=genno=2931,spno=3 "Gnidia anomala. GOLDBLATT, P. and MANNING, J. 2000. Cape Plants. A conspectus of the Cape flora of South Africa. Strelitzia 9."
+[6]: http://plants.jstor.org/flora/floc013061?s=t "Gnidia anomala. Flora Capensis, Vol 5 Part 2, page 1 (1925) Author: (By C. H. WRIGHT.)"
+[7]: http://redlist.sanbi.org/species.php?species=2931-3 "Foden, W. & Potter, L. 2005. Gnidia anomala Meisn. National Assessment: Red List of South African Plants version 2013.1. Accessed on 2013/07/20"
