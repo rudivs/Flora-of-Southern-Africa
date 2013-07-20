@@ -13,6 +13,7 @@ This is an extremely anomalous plant as regards its floral structure. It differs
 Source: [Fl. Cap. 5(2): 584 1925][4]
 
 ####Gnidia albosericea
+Bothalia 14(1): 81 (1982), nom. nov.
 
 ####Gnidia anomala
 
