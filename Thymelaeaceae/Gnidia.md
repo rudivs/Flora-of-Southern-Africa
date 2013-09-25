@@ -104,59 +104,71 @@ Gnidia burchellii Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 229
 
 ####Gnidia burmanni
 
-Prodr. [A. P. de Candolle] 14(2): 583. 1857 [late Nov 1857]
+Gnidia burmanni Eckl. & Zeyh. ex Meisn. -- [Prodr. [A. P. de Candolle] 14(2): 583. 1857 [late Nov 1857]](http://plants.jstor.org/flora/floc013071?s=t)
 
 * http://redlist.sanbi.org/species.php?species=2931-8
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+burmanni
+* [Tropicos](http://www.tropicos.org/Name/32000180)
 
 ####Gnidia caffra
 
-Gnidia caffra Meisn. -- Prodr. [A. P. de Candolle] 14(2): 592. 1857 [late Nov 1857]
-
-Gnidia caffra Eckl. & Zeyh. ex Meisn. -- Prodr. [A. P. de Candolle] 14(2): 584. 1857 [late Nov 1857] 
+Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853#page/641/mode/1up)
 
 * http://www.sntc.org.sz/flora/speciesinfo.asp?spid=2050
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817
 * http://www.ispot.org.za/species_dictionary/Gnidia%20caffra
 * http://redlist.sanbi.org/species.php?species=2931-9
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+caffra
+* [Tropicos](http://www.tropicos.org/Name/50321515)
 
 ####Gnidia calocephala
 
-Gnidia calocephala Gilg -- Bot. Jahrb. Syst. 19(2-3): 265, in obs. 1894 [21 Aug 1894]
+Gnidia calocephala (Meisn.) Gilg -- [Die Natürlichen Pflanzenfamilien 3(6a): 228. 1894. (10 Jul 1894)](http://biodiversitylibrary.org/page/16816085)
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20calocephala
 * http://redlist.sanbi.org/species.php?species=2931-10
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+calocephala
+* [Tropicos](http://www.tropicos.org/Name/32000183)
+* Basionym: Passerina calocephala Meisn. -- [Linnaea 14(5): 393–394. 1840[1841]. (Jan-Feb 1841)](http://www.biodiversitylibrary.org/openurl?pid=title:626&volume=14&issue=5&spage=393&date=1840) 
+* Synonym: Arthrosolen calocephalus C.A.Mey. -- [Flora Capensis, Vol 5 Part 2, page 1 (1925)](http://plants.jstor.org/flora/floc012950?s=t)
 
 ####Gnidia caniflora
 
-Gnidia caniflora Meisn. -- Linnaea 14: 440. 1841
+Gnidia caniflora Meisn. -- [Linnaea 14: 440. 1841](http://www.biodiversitylibrary.org/openurl?pid=title:626&volume=14&issue=5&spage=440&date=1840)
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20caniflora
 * http://redlist.sanbi.org/species.php?species=2931-11
 * http://posa.sanbi.org/flora/results.php?taxon=genno=2931,spno=11&showdetail=T
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+caniflora
+* [Tropicos](http://www.tropicos.org/Name/32000185)
+* Entry from [Flora Capensis, Vol 5 Part 2, page 1 (1925)](http://plants.jstor.org/flora/floc013122?s=t)
 
 ####Gnidia canoargentea
+
+Gnidia canoargentea (C.H.Wright) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853)
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20canoargentea
 * http://redlist.sanbi.org/species.php?species=2931-12
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+canoargentea
+* [Tropicos](http://www.tropicos.org/Name/32000186)
+* Basionym: Lasiosiphon canoargenteus C.H. Wright -- [Flora Capensis, Vol 5 Part 2, page 1 (1925)](http://plants.jstor.org/flora/floc013137?s=t)
+* [Syntype of Lasiosiphon canoargenteus](http://plants.jstor.org/specimen/gra0002135-0?s=t) 
 
 ####Gnidia capitata
 
-Gnidia capitata L.f. -- Suppl. Pl. 224. 1782 [1781 publ. Apr 1782]
+Gnidia capitata L.f. -- [Suppl. Pl. 224. 1782 [1781 publ. Apr 1782]](http://www.biodiversitylibrary.org/openurl?pid=title:555&volume=&issue=&spage=224&date=1781)
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacapitata&qry=browse&taxon=11818
 * http://www.ispot.org.za/species_dictionary/Gnidia%20capitata
+* [Tropicos](http://www.tropicos.org/Name/32000189)
+* Synonym: Lasiosiphon capitatus (L.f.) Burtt Davy -- A Manual of the Flowering Plants and Ferns of the Transvaal 1: 45. 1926. (Apr 1926)
 
 ####Gnidia cayleyi
 
-Gnidia cayleyi C.H.Wright -- Fl. Cap. (Harvey) 5(2.1): 57. 1915 [Apr 1915]
-
-Gnidia cayleyi C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 137.
+Gnidia cayleyi C.H.Wright -- [Fl. Cap. (Harvey) 5(2.1): 57. 1915 [Apr 1915]](http://plants.jstor.org/flora/floc013098?s=t)
 
 * http://redlist.sanbi.org/species.php?species=2931-14
+* [Tropicos (as Gnidia caleyi)](http://www.tropicos.org/Name/32000192)
 
 ####Gnidia chrysophylla
 
