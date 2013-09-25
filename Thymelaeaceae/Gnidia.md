@@ -160,6 +160,7 @@ Gnidia capitata L.f. -- [Suppl. Pl. 224. 1782 [1781 publ. Apr 1782]](http://www.
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacapitata&qry=browse&taxon=11818
 * http://www.ispot.org.za/species_dictionary/Gnidia%20capitata
+* http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+capitata
 * [Tropicos](http://www.tropicos.org/Name/32000189)
 * Synonym: Lasiosiphon capitatus (L.f.) Burtt Davy -- A Manual of the Flowering Plants and Ferns of the Transvaal 1: 45. 1926. (Apr 1926)
 
@@ -168,6 +169,7 @@ Gnidia capitata L.f. -- [Suppl. Pl. 224. 1782 [1781 publ. Apr 1782]](http://www.
 Gnidia cayleyi C.H.Wright -- [Fl. Cap. (Harvey) 5(2.1): 57. 1915 [Apr 1915]](http://plants.jstor.org/flora/floc013098?s=t)
 
 * http://redlist.sanbi.org/species.php?species=2931-14
+* http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+cayleyi
 * [Tropicos (as Gnidia caleyi)](http://www.tropicos.org/Name/32000192)
 
 ####Gnidia chrysophylla
