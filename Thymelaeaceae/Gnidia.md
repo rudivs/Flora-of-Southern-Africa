@@ -99,7 +99,6 @@ Gnidia burchellii Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 229
 * http://www.ispot.org.za/species_dictionary/Gnidia%20burchellii
 * http://redlist.sanbi.org/species.php?species=2931-7
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+burchellii
-* [Description of Lachnea burchellii in Flora Capensis](http://plants.jstor.org/flora/floc013986?s=t)
 * [Description of Lasiosiphon burchellii in Flora Capensis](http://plants.jstor.org/flora/floc013138?s=t)
 * [Tropicos](http://www.tropicos.org/Name/32000178)
 
