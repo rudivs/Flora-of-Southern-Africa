@@ -11,6 +11,8 @@ Source: [Seed Plants of southern Africa][1], [Flora of Zimbabwe][2]
 
 Gnidia aberrans C.H.Wright -- Fl. Cap. 5(2): 584 1925
 
+Distribution: KZN
+
 A much-branched shrub; branches stout, at first pilose, soon glabrous, leaf-scars conspicuous but not very prominent; leaves alternate, approximate, ovat-lanceolate, acute, 3 lin. long, 1 lin. wide, with a few short scattered hairs above, densely silky and slightly verrucose beneath; flowers few near the apex of the branches; calyx densely silky outside, yellow (*Wylie*); ovoid base of tube 1 lin. long, narrowly funnel-shaped part 3 lin. long; lobes oblong, subacute, 1.25 lin. long, 0.75 lin. wide; petals 4, fleshy, anther-like, ovate-lanceolate, 0.75 lin. long; staminodes 0; anthers 4, distinctly included, oblong, obtuse; ovary compressed, 0.5 lin. long; style about half as long as the calyx-tube; stigma shortly penicellate.
 EASTERN REGION: Natal; Giant's Castly, 8000-10000 ft., *Wylie in Herb. Wood.* 10611.
 This is an extremely anomalous plant as regards its floral structure. It differs from all the South African species of *Gnidia*, except *G. harveyana*, Meisn., and *G. anomala*, Meisn., in having only 4 perfect stamens, and from the two species mentioned in the entire absence of staminodes. The absence of the characteristic hairs around the petals excludes it from *Struthiola*, while the allied genus *Drapetes*, which does not occur in South Africa, differs in having the upper whorl of stamens perfect with the anthers exserted on long filaments.
@@ -25,6 +27,8 @@ Source: [Fl. Cap. 5(2): 584 1925][4]
 
 ####Gnidia albosericea
 Gnidia albosericea M.Moss ex B.Peterson -- Bothalia 14(1): 81 (1982), nom. nov.
+
+Distribution: KZN, MPU
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20albosericea
 * http://redlist.sanbi.org/species.php?species=2931-2
@@ -71,6 +75,8 @@ Source: [SANBI Redlist website][7]
 
 Gnidia anthylloides Gilg -- Bot. Jahrb. Syst. 19(2-3): 265, in obs. 1894 [21 Aug 1894]
 
+Distribution: KZN, EC, WC
+
 * http://www.flickr.com/photos/craig_gibbon/6303139117/
 * http://www.ispot.org.za/species_dictionary/Gnidia%20anthylloides
 * http://redlist.sanbi.org/species.php?species=2931-4
@@ -85,6 +91,8 @@ Gnidia baurii C.H.Wright -- [Fl. Cap. (Harvey) 5(2.1): 61. 1915 [Apr 1915]](http
 
 Gnidia baurii C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 138.
 
+Distribution: KZN, EC
+
 * http://plants.jstor.org/flora/floc013107
 * http://www.ispot.org.za/species_dictionary/Gnidia%20baurii
 * http://redlist.sanbi.org/species.php?species=2931-6
@@ -94,6 +102,8 @@ Gnidia baurii C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 138.
 ####Gnidia burchellii
 
 Gnidia burchellii Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 229.
+
+Distribution: MPU, LMP, KZN, GT, FS, NW, NC, EC, WC
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&taxon=11818&nameid=30380
 * http://www.ispot.org.za/species_dictionary/Gnidia%20burchellii
@@ -114,6 +124,8 @@ Gnidia burmanni Eckl. & Zeyh. ex Meisn. -- [Prodr. [A. P. de Candolle] 14(2): 58
 
 Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853#page/641/mode/1up)
 
+Distribution: MPU, KZN, LMP, GP, NW, FS, EC
+
 * http://www.sntc.org.sz/flora/speciesinfo.asp?spid=2050
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817
 * http://www.ispot.org.za/species_dictionary/Gnidia%20caffra
@@ -124,6 +136,8 @@ Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http
 ####Gnidia calocephala
 
 Gnidia calocephala (Meisn.) Gilg -- [Die Natürlichen Pflanzenfamilien 3(6a): 228. 1894. (10 Jul 1894)](http://biodiversitylibrary.org/page/16816085)
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20calocephala
 * http://redlist.sanbi.org/species.php?species=2931-10
@@ -146,6 +160,8 @@ Gnidia caniflora Meisn. -- [Linnaea 14: 440. 1841](http://www.biodiversitylibrar
 ####Gnidia canoargentea
 
 Gnidia canoargentea (C.H.Wright) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853)
+
+Distribution: MPU, KZN, LMP, GT, NW
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20canoargentea
 * http://redlist.sanbi.org/species.php?species=2931-12
@@ -193,6 +209,8 @@ Gnidia clavata Schinz -- Vierteljahrsschr. Naturf. Ges. Zürich lxvi. 232. 1921
 
 Gnidia compacta (C.H.Wright) J.H.Ross -- Bothalia 10(3): 435. 1971
 
+Distribution: KZN, FS
+
 * http://plants.jstor.org/visual/nbgsld0001326
 * http://redlist.sanbi.org/species.php?species=2931-17
 * http://www.ispot.org.za/species_dictionary/Gnidia%20compacta
@@ -200,11 +218,16 @@ Gnidia compacta (C.H.Wright) J.H.Ross -- Bothalia 10(3): 435. 1971
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+compacta
 
 ####Gnidia conspicua
+
+Distribution: KZN
+
 * http://redlist.sanbi.org/species.php?species=2931-18
 
 ####Gnidia coriacea
 
 Gnidia coriacea Meisn. -- Linnaea 14: 454. 1841
+
+Distribution: KZN, EC, WC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20coriacea
 * http://redlist.sanbi.org/species.php?species=2931-19
@@ -214,6 +237,8 @@ Gnidia coriacea Meisn. -- Linnaea 14: 454. 1841
 ####Gnidia cuneata
 
 Gnidia cuneata Meisn. -- Linnaea 14: 427. 1841
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20cuneata
 * http://redlist.sanbi.org/species.php?species=2931-20
@@ -252,6 +277,8 @@ Gnidia deserticola Gilg -- Bot. Jahrb. Syst. 19(2-3): 263. 1894 [21 Aug 1894]
 
 Gnidia dregeana Meisn. -- Linnaea 14: 426. 1841
 
+Distribution: KZN
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20dregeana
 * http://redlist.sanbi.org/species.php?species=2931-24
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+dregeana
@@ -270,6 +297,8 @@ Gnidia ericoides C.H.Wright -- Fl. Cap. (Harvey) 5(2.1): 58. 1915 [Apr 1915]
 ####Gnidia fastigiata
 
 Gnidia fastigiata Rendle -- Trans. Linn. Soc. London, Bot. 4(1): 41. 1894 [1894-96 publ. May 1894]
+
+Distribution: MPU, KZN
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiafastigiata&qry=browse&taxon=11807
 * http://www.ispot.org.za/species_dictionary/Gnidia%20fastigiata
@@ -334,6 +363,8 @@ Gnidia geminiflora E.Mey. ex Meisn. -- Linnaea 14: 441. 1841
 
 Gnidia gymnostachya Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 228.
 
+Distribution: MPU, KZN, GP, FS
+
 * http://plants.jstor.org/flora/floc012956
 * http://www.ispot.org.za/species_dictionary/Gnidia%20gymnostachya
 * http://redlist.sanbi.org/species.php?species=2931-33
@@ -395,6 +426,8 @@ Gnidia juniperifolia Lam. -- Encycl. [J. Lamarck & al.] 2(2): 765. 1788 [14 Apr 
 
 Gnidia kraussiana Meisn. -- London J. Bot. 2: 552 (err. typ. 452). 1843
 
+Distribution: MPU, KZN, LMP, GP, NW, NC, FS, EC
+
 var. kraussiana not in IPNI or The Plant List
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiakraussianavar.+kraussiana&qry=browse&taxon=11821
@@ -448,6 +481,8 @@ Accepted in The Plant List, but not in IPNI
 
 Gnidia macropetala Meisn. -- London J. Bot. 2: 553 (err. typ. 453). 1843
 
+Distribution: KZN
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20macropetala
 * http://redlist.sanbi.org/species.php?species=2931-47
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+macropetala
@@ -464,6 +499,8 @@ Gnidia meyeri Meisn. -- Linnaea 14: 443. 1841
 ####Gnidia microcephala
 
 Gnidia microcephala Meisn. -- Prodr. [A. P. de Candolle] 14(2): 589. 1857 [late Nov 1857]
+
+Distribution: MPU, KZN, LMP, GP, NC, FS, EC
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiamicrocephala&qry=browse&taxon=11811
 * http://www.ispot.org.za/species_dictionary/Gnidia%20microcephala
@@ -483,6 +520,8 @@ Gnidia microphylla Meisn. -- Linnaea 14: 432. 1841
 Gnidia myrtifolia C.H.Wright -- Fl. Cap. (Harvey) 5(2.1): 51. 1915 [Apr 1915]
 
 Gnidia myrtifolia C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 96.
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20myrtifolia
 * http://redlist.sanbi.org/species.php?species=2931-52
@@ -513,6 +552,8 @@ Gnidia nitida Bolus ex C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 
 ####Gnidia nodiflora
 
 Gnidia nodiflora Meisn. -- Linnaea 14: 458. 1841
+
+Distribution: MPU, LIM, GT, KZN, NC, FS, EC, WC
 
 * http://plants.jstor.org/flora/floc013110
 * http://www.ispot.org.za/species_dictionary/Gnidia%20nodiflora
@@ -608,6 +649,8 @@ Gnidia penicillata Lichtenst. ex Meisn. -- Linnaea 14: 448. 1841
 
 Gnidia phaeotricha Gilg -- in Kuntze, Revis. Gen. Pl. 3[3]: 281. 1898 [28 Sep 1898]
 
+Distribution: MPU, KZN, EC, FS
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20phaeotricha
 * http://redlist.sanbi.org/species.php?species=2931-63
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+phaeotricha
@@ -630,6 +673,8 @@ Gnidia pinifolia L.f. -- Suppl. Pl. 225. 1782 [1781 publ. Apr 1782]
 
 Gnidia polyantha Gilg -- Bot. Jahrb. Syst. 19(2-3): 265. 1894 [21 Aug 1894]
 
+Distribution: KZN, FS, EC
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20polyantha
 * http://redlist.sanbi.org/species.php?species=2931-65
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+polyantha
@@ -637,6 +682,8 @@ Gnidia polyantha Gilg -- Bot. Jahrb. Syst. 19(2-3): 265. 1894 [21 Aug 1894]
 ####Gnidia polycephala
 
 Gnidia polycephala Gilg ex Engl. -- Bot. Jahrb. Syst. 19(1): 138 et 264, in obs. 1894 [13 Apr 1894]
+
+Distribution: GT, NW, FS, NC, EC, WC
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiapolycephala&qry=browse&taxon=11824
 * http://www.ispot.org.za/species_dictionary/Gnidia%20polycephala
@@ -647,6 +694,8 @@ Gnidia polycephala Gilg ex Engl. -- Bot. Jahrb. Syst. 19(1): 138 et 264, in obs.
 
 Gnidia propinqua (Hilliard) B.Peterson -- Bothalia 14(1): 82 (1982):.
 
+Distribution: KZN, EC
+
 * http://www.africanbulbs.com/Gnidia%20propinqua23-11-08.jpg
 * http://www.ispot.org.za/species_dictionary/Gnidia%20propinqua
 * http://redlist.sanbi.org/species.php?species=2931-69
@@ -655,6 +704,8 @@ Gnidia propinqua (Hilliard) B.Peterson -- Bothalia 14(1): 82 (1982):.
 ####Gnidia pulchella
 
 Gnidia pulchella Meisn. -- Linnaea 14: 425. 1841
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20pulchella
 * http://redlist.sanbi.org/species.php?species=2931-70
@@ -673,6 +724,8 @@ Gnidia racemosa Thunb. -- Prodr. Pl. Cap. 76.
 
 Gnidia renniana Hilliard & B.L.Burtt -- Notes Roy. Bot. Gard. Edinburgh 43(2): 218. 1986
 
+Distribution: KZN
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20renniana
 * http://redlist.sanbi.org/species.php?species=2931-74
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+renniana
@@ -681,6 +734,8 @@ Gnidia renniana Hilliard & B.L.Burtt -- Notes Roy. Bot. Gard. Edinburgh 43(2): 2
 
 Gnidia robusta B.Peterson -- Bothalia 14(1): 82 (1982), nom. nov.:.
 
+Distribution: MPU, KZN
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20robusta
 * http://redlist.sanbi.org/species.php?species=2931-75
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+robusta
@@ -688,6 +743,8 @@ Gnidia robusta B.Peterson -- Bothalia 14(1): 82 (1982), nom. nov.:.
 ####Gnidia rubescens
 
 Gnidia rubescens B.Peterson -- Bot. Not. 119: 345. 1966
+
+Distribution: MPU, KZN
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20rubescens
 * http://redlist.sanbi.org/species.php?species=2931-76
@@ -731,6 +788,8 @@ Gnidia sericocephala (Meisn.) Gilg ex Engl. -- in Engl. Pflanzenw. Afr. iii. II.
 
 Gnidia sericocephala (Meisn.) M.Moss -- Bothalia iv. 190 (1941).
 
+Distribution: MPU, LMP, GP, NW
+
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiasericocephala&qry=browse&taxon=11823
 * http://www.ispot.org.za/species_dictionary/Gnidia%20sericocephala
 * http://redlist.sanbi.org/species.php?species=2931-81
@@ -748,6 +807,8 @@ Gnidia setosa Wikstr. -- Kongl. Vetensk. Acad. Handl. (1818) 315.
 ####Gnidia similis
 
 Accepted in The Plant List (C.H. Wright) but not in IPNI
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20similis
 * http://redlist.sanbi.org/species.php?species=2931-83
@@ -789,6 +850,8 @@ Gnidia spicata Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 228.
 
 Gnidia splendens Meisn. -- Linnaea 14: 428. 1841
 
+Distribution: MPU, LMP, KZN, FS
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20splendens
 * http://redlist.sanbi.org/species.php?species=2931-88
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+splendens
@@ -809,6 +872,8 @@ Gnidia squarrosa Druce -- Rep. Bot. Exch. Cl. Brit. Isles 1913, iii. 418 (1914).
 
 Gnidia stellatifolia Gand. -- Bull. Soc. Bot. France 60: 417. 1913
 
+Distribution: KZN
+
 * http://redlist.sanbi.org/species.php?species=2931-90
 
 ####Gnidia strigillosa
@@ -823,6 +888,8 @@ Gnidia strigillosa Meisn. -- Linnaea 14: 459. 1841
 ####Gnidia styphelioides
 
 Gnidia styphelioides Meisn. -- Linnaea 14: 453. 1841
+
+Distribution: KZN, EC, WC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20styphelioides
 * http://redlist.sanbi.org/species.php?species=2931-92
@@ -840,6 +907,8 @@ Gnidia suavissima Dinter -- Repert. Spec. Nov. Regni Veg. 16: 340. 1920
 ####Gnidia subcordata
 
 Gnidia subcordata Meisn. -- Linnaea 14: 430. 1841
+
+Distribution: KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20subcordata
 * http://redlist.sanbi.org/species.php?species=2931-134
@@ -883,6 +952,8 @@ No vars recognised in IPNI or The Plant List
 
 Gnidia thesioides Meisn. -- Linnaea 14: 457. 1841
 
+Distribution: KZN, EC, WC, NC
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20thesioides%20var.%20thesioides
 * http://redlist.sanbi.org/species.php?species=2931-98
 
@@ -906,6 +977,8 @@ Gnidia tomentosa L. -- Sp. Pl. 1: 358. 1753 [1 May 1753]
 
 Gnidia variabilis (C.H.Wright) Engl. -- in Engl. Pflanzenw. Afr. iii. II. (Engl. & Drude, Veg. der Erde, ix.) 630 (191), in obs.
 
+Distribution: MPU
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20variabilis
 * http://redlist.sanbi.org/species.php?species=2931-101
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+variabilis
@@ -928,6 +1001,8 @@ Gnidia wickstroemiana Meisn. -- Linnaea 14: 434. 1841
 
 Gnidia wilmsii Engl. -- in Engl. Pflanzenw. Afr. iii. II. (Engl. & Drude, Veg. der Erde, ix.) 634(1921), in obs.
 
+Distribution: KZN, EC
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20wilmsii
 * http://redlist.sanbi.org/species.php?species=2931-105
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+wilmsii
@@ -937,6 +1012,8 @@ Gnidia wilmsii Engl. -- in Engl. Pflanzenw. Afr. iii. II. (Engl. & Drude, Veg. d
 Gnidia woodii C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 137. (IK)
 
 Thymelaeaceae Gnidia woodii C.H.Wright -- [Fl. Cap. (Harvey) 5(2.1): 60. 1915 [Apr 1915]](http://plants.jstor.org/flora/floc013106?s=t)
+
+KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20woodii
 * http://redlist.sanbi.org/species.php?species=2931-106
