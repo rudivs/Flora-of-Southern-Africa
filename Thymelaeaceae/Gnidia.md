@@ -365,6 +365,24 @@ Gnidia gymnostachya Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 2
 
 Distribution: MPU, KZN, GP, FS
 
+---
+Flora Capensis, Vol 5 Part 2, page 1 (1925) Author: (By C. H. WRIGHT.)
+
+**Names**
+> ARTHROSOLEN gymnostachys C. A. Meyer [family THYMELAEACEAE], in Bull. Phys.-Math. Acad. Pétersb. i. 1845, 359
+> Passerina gymnostachya Meisn. [family THYMELAEACEAE], in Linnæa, xiv. 397, and in DC. Prodr. xiv. 560; Drège, Zwn Pfl. Documente, 50.
+
+**Information**
+an undershrub; stems simple or branched, terete, with yellowish adpressed hairs; leaves alternate, rarely the lower subopposite, linear-lanceolate, or oblong, acute, up to 6 lin. long and 2 lin. wide, glabrous above, with long white adpressed hairs on the margins and undersurface of the midrib; spikes terminal, rather lax, 1–2 in. long, ebracteate; calyx densely pilose outside; tube 2–3 lin. long, slender, cylindrical; lobes 4, oblong, obtuse, 1 lin. long; ovary ovoid, compressed, 3/4 lin. long, hairy at the apex; style exserted; stigma capitate. null
+
+**Distribution**
+CENTRAL REGION: Wodehouse Div.; Mooi Flats, 5000–6000 ft., Drège! EASTERN REGION: Natal; Ladysmith, Rehmann, 7135! KALAHARI REGION: Orange River Colony; without precise locality, Cooper, 825! Transvaal; near Lydenburg, Wilms, 1287. Waterval River, Wilms, 1034.
+
+Source: [Flora Capensis](http://plants.jstor.org/flora/floc012956)
+
+---
+* [Type specimen (JSTOR)](http://plants.jstor.org/specimen/s09-16155?s=t)
+* [Tropicos](http://192.104.39.83/Name/32000216?projectid=26)
 * http://plants.jstor.org/flora/floc012956
 * http://www.ispot.org.za/species_dictionary/Gnidia%20gymnostachya
 * http://redlist.sanbi.org/species.php?species=2931-33
