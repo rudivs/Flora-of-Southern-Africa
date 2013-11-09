@@ -363,7 +363,10 @@ Gnidia geminiflora E.Mey. ex Meisn. -- Linnaea 14: 441. 1841
 
 Gnidia gymnostachya Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 228.
 
-Distribution: MPU, KZN, GP, FS
+**Distribution:** MPU, KZN, GP, FS
+
+**Description:**
+A 15-20cm undershrub. Stem simple or branched, cylindrical, with yellowish adpressed hairs. Leaves alternate, linear-lanceolate to oblong with acute tip; up to 12mm long and 4mm wide; hairless above, with white adpressed hairs on the margins and underside midrib. Spikes terminal, fairly lax, 2-5cm long, without bracts; calyx densely hairy; tube 4-6mm, slender, cylindrical; lobes 4, oblong, obtuse, 2mm long. Style protruding, stigma capitate.
 
 ---
 Flora Capensis, Vol 5 Part 2, page 1 (1925) Author: (By C. H. WRIGHT.)
