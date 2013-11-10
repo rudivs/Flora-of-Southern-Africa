@@ -377,7 +377,7 @@ Rocky areas in grassland
 October to January
 
 **Historical Notes:**
-Type collected by J.F. Drège in December 1839. Collection notes state "Mooyplatz, auf steinigen und felsigen Bergplätzen."
+Type collected by [J.F. Drège](http://en.wikipedia.org/wiki/Johann_Franz_Dr%C3%A8ge). Collection notes state "Mooyplatz, auf steinigen und felsigen Bergplätzen." Although the collection sheet has the year 1839 written on it, it must have been collected earlier, since Drège had returned to Europe by 1839.
 
 ---
 Flora Capensis, Vol 5 Part 2, page 1 (1925) Author: (By C. H. WRIGHT.)
