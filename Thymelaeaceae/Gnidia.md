@@ -11,7 +11,7 @@
 * [Gnidia burchellii](#gnidia-burchellii)
 * [Gnidia robusta](#gnidia-robusta)
 * [Gnidia rubescens](#gnidia-rubescens)
-* [Gnidia seriocephala](#gnidia-seriocephala)
+* [Gnidia sericocephala](#gnidia-sericocephala)
 * [Gnidia splendens](#gnidia-splendens)
 * [Gnidia caffra](#gnidia-caffra)
 
