@@ -839,7 +839,23 @@ Gnidia sericocephala (Meisn.) M.Moss -- Bothalia iv. 190 (1941).
 
 Distribution: MPU, LMP, GP, NW
 
-* http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiasericocephala&qry=browse&taxon=11823
+---
+***Synonyms:***
+* Arthrosolen sericocephalus Meisn. (in de Candolle, Prodr. 14: 561 (1857). —C.H. Wright in F.C. 5, 2: 5 (1915). —Burtt Davy, Fl. Pl. Ferns Transvaal, part 1: 208 (1926).)
+* Gnidia pretoriae Gilg (in Kuntze, Rev. Gen. Pl. 3, 2: 281 (1898). Type from South Africa (Gauteng).)
+* Gnidia sericocephala (Meisn.) M. Moss (in Dyer in Bothalia 4: 181, 190 (1941).)
+
+***Habitat:***
+Grassland, flats and hill-slopes in sandy or rocky soil; 1000–1500 m.
+
+***Description:***
+Perennial herb or small shrub, 20–50 cm high, unbranched or sparingly branched from a woody rootstock. Branches erect, slender, glabrous or appressed pubescent, later glabrescent. Leaves alternate, scattered above, denser towards the base of the stem, (10)12–22(30) × 1–2(4) mm, narrowly elliptic or sometimes narrowly obovate, acute, glabrous or sparsely pilose beneath when young, 1-nerved; petiole c. 1 mm long. Inflorescence a terminal head, 15–25 mm in diameter, 15–50-flowered; peduncle 6–17 cm long, pilose or glabrous. Involucral bracts 6–8, 7–14 × 2–6 mm, ovate, acute to acuminate, with pubescence of soft white hairs on the lower side, glabrous above, herbaceous green, deciduous. Flowers (4)5-merous, yellow, cream or whitish-green; pedicels sericeous-pubescent. Calyx tube 6–12 mm long, circumscissile above the ovary, lower part with long hairs, upper part densely appressed sericeous, glabrous within; lobes (1)2–4 × 1–3 mm, ovate to suborbicular, pubescent below, glabrous above. Petals none. Stamens (8)10 in two whorls, subsessile; anthers 0.5–1 mm long. Ovary with a tuft of hairs at apex; style reaching the lower whorl of stamens; stigma club-shaped.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiasericocephala&qry=browse&taxon=11823)
+
+---
+* [Isotype (JSTOR)](http://plants.jstor.org/specimen/viewer/k000324226)
+* [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiasericocephala&qry=browse&taxon=11823)
 * http://www.ispot.org.za/species_dictionary/Gnidia%20sericocephala
 * http://redlist.sanbi.org/species.php?species=2931-81
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+seriocephala
