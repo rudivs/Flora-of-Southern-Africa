@@ -1,9 +1,9 @@
 ###Index to Gnidia of Mpumalanga
-* [Gnidia variabilis](#Gnidia-variabilis)
+* [Gnidia variabilis]()
 * [Gnidia canoargentea](#Gnidia-canoargentea)
 * [Gnidia albosericea](#Gnidia-albosericea)
 * [Gnidia fastigiata](#Gnidia-fastigiata)
-* [Gnidia gymnostachya](#Gnidia-gymnostachya)
+* [Gnidia gymnostachya](#Gnidia gymnostachya)
 * [Gnidia kraussiana var. kraussiana](#Gnidia-kraussiana-var.-kraussiana)
 * [Gnidia microcephala](#Gnidia-microcephala)
 * [Gnidia nodiflora](#Gnidia-nodiflora)
