@@ -1,5 +1,5 @@
 ###Index to Gnidia of Mpumalanga
-* [Gnidia variabilis]()
+* [Gnidia variabilis](#gnidia variabilis)
 * [Gnidia canoargentea](#Gnidia-canoargentea)
 * [Gnidia albosericea](#Gnidia-albosericea)
 * [Gnidia fastigiata](#Gnidia-fastigiata)
