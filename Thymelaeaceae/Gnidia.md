@@ -385,7 +385,7 @@ Gnidia gymnostachya Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 2
 **Distribution:** MPU, KZN, GP, FS
 
 **Field Description:**
-A 15-20cm undershrub. Stem simple or branched, cylindrical, with yellowish adpressed hairs. Leaves alternate, linear-lanceolate to oblong with acute tip; up to 12mm long and 4mm wide; hairless above, with white adpressed hairs on the margins and underside midrib. Spikes terminal, fairly lax, 2-5cm long, without bracts. Flowers sessile or sub-sessile, greenish, non-showy. Calyx densely hairy; tube 4-6mm, slender, cylindrical; lobes 4, oblong, obtuse, 2mm long. Style protruding, stigma capitate. Flowering axis lengthens as fruits develop.
+A 15-20cm undershrub. Stem simple or branched, cylindrical, with yellowish adpressed hairs. Leaves alternate, linear-lanceolate to oblong with acute tip; up to 12mm long and 4mm wide; hairless above, with white adpressed hairs on the margins and underside midrib. Spikes terminal, fairly lax, 2-5cm long, without bracts. Flowers sessile or sub-sessile, greenish, non-showy. Calyx densely hairy; tube 4-6mm, slender, cylindrical; lobes 4, oblong, obtuse, 2mm long. Ovary ovoid, compressed, 1.5mm long, hairy at the apex. Style protruding, stigma capitate. Flowering axis lengthens as fruits develop.
 
 **Habitat:**
 Rocky areas in grassland
