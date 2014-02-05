@@ -19,7 +19,7 @@
 * [Gnidia phaeotricha](#gnidia-phaeotricha)
 * [Gnidia burchellii](#gnidia-burchellii)
 * [Gnidia robusta](#gnidia-robusta) - differs from caffra only in certain measurements
-* [Gnidia rubescens](#gnidia-rubescens) - tetramerous
+* [Gnidia rubescens](#gnidia-rubescens)
 * [Gnidia caffra](#gnidia-caffra)
 * [Gnidia capitata](#gnidia-capitata)
 
