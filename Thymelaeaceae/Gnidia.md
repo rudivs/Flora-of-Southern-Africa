@@ -180,6 +180,8 @@ Gnidia canoargentea (C.H.Wright) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1
 
 Distribution: MPU, KZN, LMP, GT, NW
 
+A much-branched shrub; branches densely adpressed white-silky when young, leaf-scars small but prominent; leaves alternate, oblong-lanceolate, 5 lin. long, 1 1/3 lin. wide, acute, densely clothed (especially on the lower surface) with adpressed silvery hairs; involucral leaves twice as broad as the cauline; flowers many in a terminal cluster; calyx pubescent outside, with longer hairs below; tube 6 lin. long; lobes oblong, obtuse, 1 1/2 lin. long, 1 lin. wide; petals minute, tooth-like; anthers thrice as long as the petals; anthers oblong, obtuse, 1/2 lin. long; ovary oblong, hairy at the apex; style slender, rigid, about as long as the calyx-tube; stigma capitate.
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20canoargentea
 * http://redlist.sanbi.org/species.php?species=2931-12
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+canoargentea
