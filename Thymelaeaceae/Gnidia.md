@@ -1,7 +1,15 @@
 ###Index to Gnidia of Mpumalanga
-* [Gnidia variabilis](#gnidia-variabilis)
+
+**Hairy**
+
 * [Gnidia canoargentea](#gnidia-canoargentea)
 * [Gnidia albosericea](#gnidia-albosericea)
+* [Gnidia sericocephala](#gnidia-sericocephala)
+* [Gnidia splendens](#gnidia-splendens)
+
+**Other**
+ 
+* [Gnidia variabilis](#gnidia-variabilis)
 * [Gnidia fastigiata](#gnidia-fastigiata)
 * [Gnidia gymnostachya](#gnidia-gymnostachya)
 * [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana)
@@ -11,8 +19,7 @@
 * [Gnidia burchellii](#gnidia-burchellii)
 * [Gnidia robusta](#gnidia-robusta)
 * [Gnidia rubescens](#gnidia-rubescens)
-* [Gnidia sericocephala](#gnidia-sericocephala)
-* [Gnidia splendens](#gnidia-splendens)
+
 * [Gnidia caffra](#gnidia-caffra)
 
 Shrublets, undershrubs, or shrubs, often ericoid. Leaves opposite or alternate. Flowers usually in terminal heads or clusters, sometimes solitary or in short spikes; bracts present or 0. Calyx 4- or 5-lobed; tube cylindric to narrowly campanulate, usually hairy and articulated near base; lobes much shorter than tube, mainly oblong or obovate. Petals 0, same number, twice, or sometimes three times as many as calyx lobes, membranous or fleshy, flat or terete, sometimes hairy or surrounded by hairs, smaller than calyx lobes. Stamens usually twice as many as calyx lobes, in 2 series; upper row in mouth of calyx tube, or rarely 0 or aborted; other row in throat or lower; filaments usually shorter than anthers. Disc 0 or surrounding ovary. Ovary 1-locular, with single ovule; style lateral, included; stigma usually simple, sometimes flattened or 2-lobed, usually penicillate. Fruit dry, enclosed in persistent base of calyx tube. Seeds small. x = 9 (7).
