@@ -326,6 +326,8 @@ Gnidia fastigiata Rendle -- Trans. Linn. Soc. London, Bot. 4(1): 41. 1894 [1894-
 
 Distribution: MPU, KZN
 
+**Taxonomic note:** According to Flora Zambesiaca, South African *G. fastigiata* likely to be misidentified *G. nodiflora*.
+
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiafastigiata&qry=browse&taxon=11807
 * http://www.ispot.org.za/species_dictionary/Gnidia%20fastigiata
 * http://redlist.sanbi.org/species.php?species=2931-26
