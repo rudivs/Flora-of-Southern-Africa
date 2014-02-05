@@ -923,9 +923,23 @@ Gnidia spicata Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 228.
 
 ####Gnidia splendens
 
-Gnidia splendens Meisn. -- Linnaea 14: 428. 1841
+Gnidia splendens Meisn. -- [Linnaea 14: 428. 1841](http://www.biodiversitylibrary.org/item/109831#page/436/mode/2up)
 
 Distribution: MPU, LMP, KZN, FS
+
+Gnidia splendens, nob., ramis albido-subsericeis; foliis lineari-lanceolatis, intrinque aeqaliter attenuatis acutis splendide sericeo-villosis; involucralibus conformibus; capitulis sessilibus, 5-8-floris; floribus involucrum suberectum vix superantibus, extus sericeis, limbi lobis obtusis, squamis minutis ovatis integris?
+
+In herbosis prope Port Natal, infra alt. 100 ped. (V. c.)
+
+Ab affinibus omnibus pubescentia pulchre sericeo-splendente, foliorum forma et florum brevitate facile dignoscenda. Rami sparsi, tenues, pube adpressa densaque subsericea albicantes, foliorum cicatricibus vix prominulis, internodiis plerumque 3-5 lin. longis. Folia sparsa, rarius approximato-subopposita patentia v. semipatula, sessilia v. subsessilia, plana, subtriplinervia, interdum acuminata, pallide flavo-viridia, subtus albicantia, omnia (maxime juniora) pulchre sericeo-splendentia, involucralia reliquis tam magnitudine quam forma similia. Capitula terminalia sessilia; flores 7-8 lin. longi, involucrum aequantes v. param longiores, caet. G. cuneatae.
+
+---
+Branches, whitish - subsericeis leaves linear- lanceolate, tapering to a sharp sumptuously silky - villous intrinque aeqaliter ; Involucral conform , sessile , 5 - 8 - flowered, flowers envelope planted barely prevailing outside sericeous, limb lobes obtuse ; scales minute ovate fresh ?
+
+Near Port Natal on the grassy earth , below in height . 100 feet . ( V c . )
+
+By The Associated pubescent all beautifully silky - shining, the leaves and flowers of the short form of easily finding . Branches scattered, thin , young men ap packed subsericea whitish leaves scars scarcely prominent, internodes usually 3-5 lines . long. The leaves are sparse , rarely approximate five - subopposite open . semipatula , sessile vol. subsessile , flat, subtriplinervia , sometimes acuminate , pale yellowish- green, the underside white can be all things ( especially the younger ones ) beautifully silky- shining, as well as the size of the rest of Involucral than the form of the like. The chapters on the end sessile , flowers 7-8 lines . long, envelope and placed fifth . Param longer , however . G. cuneate .
+
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20splendens
 * http://redlist.sanbi.org/species.php?species=2931-88
