@@ -1,25 +1,25 @@
 ###Index to Gnidia of Mpumalanga
 
-**Hairy**
+**Hairy** -- all pentamerous
 
 * [Gnidia canoargentea](#gnidia-canoargentea)
 * [Gnidia splendens](#gnidia-splendens) - differs only in measurements from *G. canoargentia*
 * [Gnidia albosericea](#gnidia-albosericea)
-* [Gnidia calocephala](#gnidia-calocephala) - flowers pentamerous (Beaumont)
-* [Gnidia sericocephala](#gnidia-sericocephala) - flowers pentamerous (Beaumont)
+* [Gnidia calocephala](#gnidia-calocephala)
+* [Gnidia sericocephala](#gnidia-sericocephala)
 
 **Other**
  
 * [Gnidia variabilis](#gnidia-variabilis)
 * [Gnidia fastigiata](#gnidia-fastigiata)
-* [Gnidia gymnostachya](#gnidia-gymnostachya)
+* [Gnidia gymnostachya](#gnidia-gymnostachya) - tetramerous
 * [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana)
 * [Gnidia microcephala](#gnidia-microcephala)
-* [Gnidia nodiflora](#gnidia-nodiflora)
+* [Gnidia nodiflora](#gnidia-nodiflora) - tetramerous?
 * [Gnidia phaeotricha](#gnidia-phaeotricha)
 * [Gnidia burchellii](#gnidia-burchellii)
-* [Gnidia robusta](#gnidia-robusta)
-* [Gnidia rubescens](#gnidia-rubescens)
+* [Gnidia robusta](#gnidia-robusta) - differs from caffra only in certain measurements
+* [Gnidia rubescens](#gnidia-rubescens) - tetramerous
 * [Gnidia caffra](#gnidia-caffra)
 * [Gnidia capitata](#gnidia-capitata)
 
@@ -613,6 +613,8 @@ Gnidia nitida Bolus ex C.H.Wright & C.H.Wright -- Bull. Misc. Inform. Kew 1916, 
 ####Gnidia nodiflora
 
 Gnidia nodiflora Meisn. -- Linnaea 14: 458. 1841
+
+an undershrub, up to 1 ft. high, branched from the base; branches erect, terete, densely pilose above, glabrous below, leaf-scars not prominent; leaves alternate, subopposite or verticillate, linear-oblong, acute, rarely obtuse, 3–6 lin. long, 1 lin. wide, usually flat, at first densely hairy, glabrescent; flowers in sessile terminal or axillary clusters; calyx densely silky outside; tube 2 1/2 lin. long, inflated below; lobes ovate, acute, 3/4 lin. long, 1/2 lin. wide; petals 8, linear, half as long as the calyx-lobes; anthers 1/6 lin. long, rounded at both ends; ovary compressed, pubescent; style as long as the calyx-tube; stigma capitate.
 
 Distribution: MPU, LIM, GT, KZN, NC, FS, EC, WC
 
