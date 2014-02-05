@@ -5,6 +5,7 @@
 * [Gnidia canoargentea](#gnidia-canoargentea)
 * [Gnidia splendens](#gnidia-splendens) - differs only in measurements from *G. canoargentia*
 * [Gnidia albosericea](#gnidia-albosericea)
+* [Gnidia calocephala](#gnidia-calocephala) - flowers pentamerous (Beaumont)
 * [Gnidia sericocephala](#gnidia-sericocephala) - flowers pentamerous (Beaumont)
 
 **Other**
@@ -160,7 +161,7 @@ Distribution: MPU, KZN, LMP, GP, NW, FS, EC
 
 Gnidia calocephala (Meisn.) Gilg -- [Die Natürlichen Pflanzenfamilien 3(6a): 228. 1894. (10 Jul 1894)](http://biodiversitylibrary.org/page/16816085)
 
-Distribution: KZN, EC
+Distribution: MPU, KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20calocephala
 * http://redlist.sanbi.org/species.php?species=2931-10
