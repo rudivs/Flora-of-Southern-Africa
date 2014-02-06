@@ -1,6 +1,6 @@
 ###Index to Gnidia of Mpumalanga
 
-**Hairy** -- all 5-merous
+**Densely Hairy** -- all 5-merous
 
 * [Gnidia canoargentea](#gnidia-canoargentea)
 * [Gnidia splendens](#gnidia-splendens) - differs only in measurements from *G. canoargentia*
@@ -8,20 +8,23 @@
 * [Gnidia calocephala](#gnidia-calocephala)
 * [Gnidia sericocephala](#gnidia-sericocephala)
 
+**Yellow** -- all 5-merous
+
+* [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana) - Heads over 2.5 cm in diameter
+* [Gnidia caffra](#gnidia-caffra) - Heads under 2.5cm in diameter; inflorescences 2–8-flowered, often overtopped by 1 or 2 of the uppermost branchlets; calyx lobes 1–6 mm wide
+* [Gnidia robusta](#gnidia-robusta) - differs from *G. caffra* only in certain measurements
+* [Gnidia capitata](#gnidia-capitata) - Heads under 2.5cm in diameter; inflorescences 6–30-flowered, rarely overtopped by uppermost branchlets; calyx lobes 1.5–3 mm wide; peduncle often well developed but sometimes absent; leaves usually rather loosely arranged; bracts green, red, purple or yellowish; petals 1–3 mm long; shoots several to 50 from the rootstock
+* [Gnidia burchellii](#gnidia-burchellii) - Heads under 2.5cm in diameter; inflorescences 6–30-flowered, rarely overtopped by uppermost branchlets; calyx lobes 1.5–3 mm wide; peduncle not distinct; leaves usually crowded on upper part of the branches; bracts pale green; petals c. 1 mm long; branched shrub, not caespitose
+
 **Other**
  
 * [Gnidia variabilis](#gnidia-variabilis)
 * [Gnidia fastigiata](#gnidia-fastigiata) - considered misidentifications of *G. nodiflora*
 * [Gnidia gymnostachya](#gnidia-gymnostachya) - 4-merous
-* [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana)
 * [Gnidia microcephala](#gnidia-microcephala) - 4-merous
 * [Gnidia nodiflora](#gnidia-nodiflora) - 4-merous
 * [Gnidia phaeotricha](#gnidia-phaeotricha)
-* [Gnidia burchellii](#gnidia-burchellii)
-* [Gnidia robusta](#gnidia-robusta) - differs from *G. caffra* only in certain measurements
-* [Gnidia rubescens](#gnidia-rubescens)
-* [Gnidia caffra](#gnidia-caffra)
-* [Gnidia capitata](#gnidia-capitata)
+* [Gnidia rubescens](#gnidia-rubescens) - red
 * [Gnidia polyantha](#gnidia-polyantha)
 
 Shrublets, undershrubs, or shrubs, often ericoid. Leaves opposite or alternate. Flowers usually in terminal heads or clusters, sometimes solitary or in short spikes; bracts present or 0. Calyx 4- or 5-lobed; tube cylindric to narrowly campanulate, usually hairy and articulated near base; lobes much shorter than tube, mainly oblong or obovate. Petals 0, same number, twice, or sometimes three times as many as calyx lobes, membranous or fleshy, flat or terete, sometimes hairy or surrounded by hairs, smaller than calyx lobes. Stamens usually twice as many as calyx lobes, in 2 series; upper row in mouth of calyx tube, or rarely 0 or aborted; other row in throat or lower; filaments usually shorter than anthers. Disc 0 or surrounding ovary. Ovary 1-locular, with single ovule; style lateral, included; stigma usually simple, sometimes flattened or 2-lobed, usually penicillate. Fruit dry, enclosed in persistent base of calyx tube. Seeds small. x = 9 (7).
