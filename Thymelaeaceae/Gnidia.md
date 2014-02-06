@@ -11,14 +11,14 @@
 **Other**
  
 * [Gnidia variabilis](#gnidia-variabilis)
-* [Gnidia fastigiata](#gnidia-fastigiata)
+* [Gnidia fastigiata](#gnidia-fastigiata) - considered misidentifications of *G. nodiflora*
 * [Gnidia gymnostachya](#gnidia-gymnostachya) - tetramerous
 * [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana)
 * [Gnidia microcephala](#gnidia-microcephala)
 * [Gnidia nodiflora](#gnidia-nodiflora) - tetramerous?
 * [Gnidia phaeotricha](#gnidia-phaeotricha)
 * [Gnidia burchellii](#gnidia-burchellii)
-* [Gnidia robusta](#gnidia-robusta) - differs from caffra only in certain measurements
+* [Gnidia robusta](#gnidia-robusta) - differs from *G. caffra* only in certain measurements
 * [Gnidia rubescens](#gnidia-rubescens)
 * [Gnidia caffra](#gnidia-caffra)
 * [Gnidia capitata](#gnidia-capitata)
