@@ -1,6 +1,6 @@
 ###Index to Gnidia of Mpumalanga
 
-**Hairy** -- all pentamerous
+**Hairy** -- all 5-merous
 
 * [Gnidia canoargentea](#gnidia-canoargentea)
 * [Gnidia splendens](#gnidia-splendens) - differs only in measurements from *G. canoargentia*
@@ -12,10 +12,10 @@
  
 * [Gnidia variabilis](#gnidia-variabilis)
 * [Gnidia fastigiata](#gnidia-fastigiata) - considered misidentifications of *G. nodiflora*
-* [Gnidia gymnostachya](#gnidia-gymnostachya) - tetramerous
+* [Gnidia gymnostachya](#gnidia-gymnostachya) - 4-merous
 * [Gnidia kraussiana var. kraussiana](#gnidia-kraussiana-var.-kraussiana)
-* [Gnidia microcephala](#gnidia-microcephala)
-* [Gnidia nodiflora](#gnidia-nodiflora) - tetramerous?
+* [Gnidia microcephala](#gnidia-microcephala) - 4-merous
+* [Gnidia nodiflora](#gnidia-nodiflora) - 4-merous
 * [Gnidia phaeotricha](#gnidia-phaeotricha)
 * [Gnidia burchellii](#gnidia-burchellii)
 * [Gnidia robusta](#gnidia-robusta) - differs from *G. caffra* only in certain measurements
