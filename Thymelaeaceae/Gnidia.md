@@ -152,6 +152,10 @@ Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http
 
 Distribution: MPU, KZN, LMP, GP, NW, FS, EC
 
+An undershrub, 20–60 cm in height, with stout perennial taproot. Branches slender, suberect to erect, glabrous or sparingly pubescent, glabrescent, yellowish. Leaves alternate, imbricate, later spreading, subsessile or with pubescent petiole 1–2 mm long; lamina (8)14–30(43) × (1)2–4(10) mm, narrowly elliptic to narrowly ovate or obovate, acute, glabrous or sparingly pubescent above, glabrous to pubescent beneath, glabrescent. Inflorescence a terminal 2–8-flowered head, often overlapped by 1 or 2 of the uppermost branchlets; peduncle 1–5(12) mm long. Involucral bracts 3–6, (5)8–18(22) × 2–4(7) mm, ovate, acuminate, sometimes ± similar to the apical leaves, glabrous to sparingly pubescent above, glabrous to appressed white-pubescent on the lower side. Flowers 5-merous, pale or golden-yellow, sessile or with a c. 1 mm long pedicel. Calyx tube (8)12–18(24) mm long, densely white or silvery pubescent outside, glabrous within, circumscissile above the ovary; lobes (3)4–6(11) × (1)2–4(6) mm, elliptic to ovate, obtuse, pubescent outside. Petals minute to ligulate, membranous, 0.5–1 mm long. Stamens subsessile; anthers 1–2 mm long. Ovary glabrous below, hairy at top; style 2–4 mm long, sometimes exserted. Fruit glabrous except for a few hairs at the top.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817)
+
 * http://www.sntc.org.sz/flora/speciesinfo.asp?spid=2050
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817
 * http://www.ispot.org.za/species_dictionary/Gnidia%20caffra
