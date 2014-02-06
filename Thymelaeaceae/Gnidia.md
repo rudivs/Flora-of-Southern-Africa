@@ -160,6 +160,10 @@ Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http
 
 Distribution: MPU, KZN, LMP, GP, NW, FS, EC
 
+Habitat:
+In grassland; 200–300 m.
+
+Description:
 An undershrub, 20–60 cm in height, with stout perennial taproot. Branches slender, suberect to erect, glabrous or sparingly pubescent, glabrescent, yellowish. Leaves alternate, imbricate, later spreading, subsessile or with pubescent petiole 1–2 mm long; lamina (8)14–30(43) × (1)2–4(10) mm, narrowly elliptic to narrowly ovate or obovate, acute, glabrous or sparingly pubescent above, glabrous to pubescent beneath, glabrescent. Inflorescence a terminal 2–8-flowered head, often overlapped by 1 or 2 of the uppermost branchlets; peduncle 1–5(12) mm long. Involucral bracts 3–6, (5)8–18(22) × 2–4(7) mm, ovate, acuminate, sometimes ± similar to the apical leaves, glabrous to sparingly pubescent above, glabrous to appressed white-pubescent on the lower side. Flowers 5-merous, pale or golden-yellow, sessile or with a c. 1 mm long pedicel. Calyx tube (8)12–18(24) mm long, densely white or silvery pubescent outside, glabrous within, circumscissile above the ovary; lobes (3)4–6(11) × (1)2–4(6) mm, elliptic to ovate, obtuse, pubescent outside. Petals minute to ligulate, membranous, 0.5–1 mm long. Stamens subsessile; anthers 1–2 mm long. Ovary glabrous below, hairy at top; style 2–4 mm long, sometimes exserted. Fruit glabrous except for a few hairs at the top.
 
 Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817)
@@ -504,6 +508,20 @@ Distribution: MPU, KZN, LMP, GP, NW, NC, FS, EC
 
 var. kraussiana not in IPNI or The Plant List
 
+Habitat:
+*G. kraussiana* is one of the characteristic geophytes which flower in early spring after the common grassland fires, also in miombo woodland and on rocky hill-slopes; locally abundant ; 300–2550 m.
+
+Description (*G. kraussiana*):
+Perennial herb or subshrub, unbranched or slightly branched, sometimes below the inflorescence, with numerous herbaceous or woody stems, slender to fairly stout, 15–70 cm high, from a thick woody base. Branches glabrous to densely hirsute or pubescent only at the base, yellowish-red, brownish or greyish. Leaves alternate, very variable in shape and size, sessile or with petiole 1–2 mm long; lamina (10)20–30 × 3–8(10) mm, narrowly elliptic to elliptic or ovate, sometimes 30–45(52) × (10)15–20(32) mm, obovate or suborbicular, acute to obtuse or rounded, sometimes shortly mucronate, base tapering to rounded, the larger leaves strongly nerved, midrib prominent and secondary nerves sometimes visible on the lower surface even on pubescent leaves, glabrous to densely pubescent, silky villous or golden hairy, often ciliate, coriaceous or subcoriaceous. Inflorescence capitate, compact, terminal, 18–55(72)-flowered, 2.5–4 cm in diameter; peduncle 1–15 cm long, glabrous or pubescent, sometimes almost lacking. Bracts 5–10(12),10–18(21) × 3–8 mm, elliptic, narrowly ovate to ovate, acuminate to obtuse, glabrous to densely pubescent or pilose, green, persistent. Flowers (4)5-merous, orange or yellow, densely aggregated; pedicels 1–2 mm long, tomentose and with a fringe of soft hairs at apex. Calyx tube 7–18(22) mm long, densely pubescent above the articulation and below with 5–6 mm long sericeous hairs; lobes 2–4 × 1–2 mm, elliptic to ovate or obovate, rounded, usually ± emarginate, densely pubescent outside, glabrous and shining golden-yellow inside. Petals very varied in shape, 0.5–2 × 0.5–1 mm, oblong to ovate, often ± emarginate or lobed, membranous, rarely glandular or lacking. Stamens subsessile, upper row usually exserted; anthers 0.5–1.5 mm long. Ovary pilose to densely sericeous, especially at apex; disk minute, ring-shaped; style 4–11 mm long; stigma papillate. Seed 2–2.5 × 1 mm.
+
+Description (*var kraussiana*):
+Upper parts of branches glabrous and base generally pubescent or totally densely pubescent to hirsute. Leaves glabrous or sparsely to densely pubescent to hirsute, midrib and secondary nerves visible on the lower side, often ciliate. Inflorescence with peduncle 1–15 cm long, generally well developed. Bracts glabrous to densely pubescent outside, often ciliate.
+
+Notes:
+Gnidia kraussiana is one of the most polymorphic species within the genus Gnidia. Pubescence, size and shape of the leaves are very variable. It has not been possible to correlate these variations and no taxonomic recognition can be given to the often very different variants as there are long series of transitional forms. Also the petals vary in form that is not even constant in the same inflorescence.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiakraussianavar.+kraussiana&qry=browse&taxon=11821)
+
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiakraussianavar.+kraussiana&qry=browse&taxon=11821
 * http://www.zimbabweflora.co.zw/speciesdata/species.php?species_id=141300
 * http://www.ispot.org.za/species_dictionary/Gnidia%20kraussiana%20var.%20kraussiana
@@ -575,6 +593,17 @@ Gnidia meyeri Meisn. -- Linnaea 14: 443. 1841
 Gnidia microcephala Meisn. -- Prodr. [A. P. de Candolle] 14(2): 589. 1857 [late Nov 1857]
 
 Distribution: MPU, KZN, LMP, GP, NC, FS, EC
+
+Habitat:
+Miombo woodland, grassland subject to fires, dry hillside on sandy soils; 20–2300 m.
+
+Description:
+Herbaceous or somewhat woody perennial, 15–30(45) cm high, from a woody rhizome. Stems single or numerous, erect, slender, sometimes striate, pale green, glabrous, unbranched to loosely branched especially above. Leaves alternate, sessile or subsessile; lamina (6)10–18(25)× 0.5–3 mm, linear, elliptic to narrowly obovate, acuminate or acute, the margins sometimes inrolled, glabrous. Inflorescences 5–50-flowered terminal heads, sometimes overtopped by the uppermost leaves, and/or by small branchlets proceeding from just below the heads, sessile or with peduncle up to 16 mm long. Bracts (4)6–8(10), in 2 or 3 rows, 6–10 × 2–5 mm, elliptic to broadly ovate, abruptly acuminate to acute, membranous, ciliate, inner minutely softly pubescent on the lower side, especially along the midrib, outer often glabrous except for the ciliate margins, greenish to red-brown, persistent. Flowers 4-merous, dull yellow to orange-red; pedicel c. 1 mm long, encircled by soft, white hairs. Calyx tube 5–14 mm long, glabrous below the articulation, minutely pubescent above; lobes 2–3(4)× (0.5)1–2 mm, oblong to ovate, obtuse to rounded, minutely pubescent on the outside. Petals linear to club-shaped, 0.5–1 mm long, rarely absent. Stamens subsessile; anthers 0.7–1 mm long. Ovary glabrous; disk membranous, minute, cupular; style 3–6 mm long; stigma subcapitate, papillate. Seed 2–2.5 × 1–1.2 mm.
+
+Notes:
+As in many species of Gnidia the stem leaves gradually convert into involucral bracts. In G. microcephala the outer whorl of green bracts are often leaf-like and only slightly broader than the uppermost stem leaves. There is often a noteworthy variation in the number of flowers (5–50) per head within this species. Young unbranched specimens of Gnidia microcephala with single inflorescences appearing shortly after fires look very different from older specimens. This phenomenon is usually the case within all the species of Gnidia that are exposed to veld fires.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiamicrocephala&qry=browse&taxon=11811)
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiamicrocephala&qry=browse&taxon=11811
 * http://www.ispot.org.za/species_dictionary/Gnidia%20microcephala
