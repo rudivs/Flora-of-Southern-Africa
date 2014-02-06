@@ -779,7 +779,7 @@ Gnidia pinifolia L.f. -- Suppl. Pl. 225. 1782 [1781 publ. Apr 1782]
 
 ####Gnidia polyantha
 
-Gnidia polyantha Gilg -- Bot. Jahrb. Syst. 19(2-3): 265. 1894 [21 Aug 1894]
+Gnidia polyantha Gilg -- [Bot. Jahrb. Syst. 19(2-3): 265. 1894 (21 Aug 1894)](http://biodiversitylibrary.org/page/204090#page/277/mode/1up)
 
 Distribution: KZN, FS, EC
 
