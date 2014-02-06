@@ -131,6 +131,14 @@ Gnidia burchellii Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 229
 
 Distribution: MPU, LMP, KZN, GT, FS, NW, NC, EC, WC
 
+Habitat:
+On reddish, stony, and sometimes clayey soil in open short grassland, shrub savanna, <i>Acacia</i> veld, also on hillslopes; 10–1700 m.
+
+Description:
+Herbaceous, bushy perennial, 25–50 cm high to many-stemmed shrubs up to 80 cm. Branches slender, appressed pubescent, later glabrescent, sometimes glabrous, often reddish. Pubescence often confined to the upper parts of the stems and to the upper leaves as well. Leaves alternate, (10)15–32(40) × 2–5(6) mm, narrowly elliptic to narrowly ovate, sometimes narrowly obovate, acute, glabrous to pubescent on both sides, sometimes upper surface glabrous and lower ± pubescent, now and then silvery-green. Inflorescence 6–20(30)-flowered terminal heads, usually distinctly peduncled or sometimes subsessile; peduncle 5–80 mm long, usually thickened at the top, glabrous or appressed pubescent. Bracts 6–10, 6–13(18) × 2–3(5) mm, narrowly ovate to ovate, acute to obtuse, glabrous to ± silky pubescent on both sides, ciliate, often red, purple or brownish. Flowers (4)5-merous, bright or golden-yellow; pedicels 0.5–1 mm long, covered with erect 1–2 mm long hairs. Calyx tube (5)10–20(28) mm long, circumscissile above the ovary, appressed pubescent without, rarely glabrous, glabrous within; lobes 2–6 × 1.5–3 mm, narrowly ovate to ovate, sometimes suborbicular, acute, obtuse or rounded, pubescent beneath, glabrous above, rarely quite glabrous. Petals 5, rarely 4, 1–2(3) × 1–1.5 mm, ligulate, ovate or suborbicular, entire at apex, membranous, or very minute, rarely absent. Stamens 4(5) in 2 whorls, upper slightly exserted; upper anthers 1.5 mm long, lower c. 1 mm long. Ovary ovoid, glabrous; style usually shorter than the calyx tube, sometimes slightly exserted; stigma capitate.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&taxon=11818&nameid=30380)
+
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&taxon=11818&nameid=30380
 * http://www.ispot.org.za/species_dictionary/Gnidia%20burchellii
 * http://redlist.sanbi.org/species.php?species=2931-7
