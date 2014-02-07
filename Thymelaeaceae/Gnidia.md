@@ -789,6 +789,10 @@ Gnidia pinifolia L.f. -- Suppl. Pl. 225. 1782 [1781 publ. Apr 1782]
 
 Gnidia polyantha Gilg -- [Bot. Jahrb. Syst. 19(2-3): 265. 1894 (21 Aug 1894)](http://biodiversitylibrary.org/page/204090#page/277/mode/1up)
 
+an undershrub, more or less branched from the base; branches rather stout, pilose at first, leaf-scars prominent; leaves alternate, oblong, oval or ovate, acute, 15 lin. long, 5 lin. wide, 5-nerved, densely adpressed-silky on both surfaces; involucral leaves similar to the cauline but more densely silky; heads terminal, sessile, up to 40-flowered; calyx spreading-pilose outside; tube about 1 lin. long, slender, subcylindrical; lobes yellow, oblong-lanceolate, or oblong, 3 lin. long, 1 1/2 lin. wide; petals minute, oblong, 1/3 lin. long; anthers oblong, twice as long as the petals; ovary oblong; style slightly shorter than the calyx-tube; stigma capitate.
+
+Source: [Flora Capensis](http://plants.jstor.org/flora/floc013147?s=t) entry for *Lasiosiphon polyanthus* Gilg 
+
 Distribution: KZN, FS, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20polyantha
