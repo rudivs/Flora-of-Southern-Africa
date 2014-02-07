@@ -184,6 +184,10 @@ Gnidia calocephala (Meisn.) Gilg -- [Die Natürlichen Pflanzenfamilien 3(6a): 22
 
 Distribution: MPU, KZN, EC
 
+a branched shrub about 1 1/2 ft. high; branches virgate, usually simple, slender, terete, often reddish-brown, pilose; leaves oblong-lanceolate, up to 1 1/4 in. long and 4 lin. wide, the uppermost sometimes elliptic, 7 lin. long, 4 lin. wide, all acute or subobtuse, with numerous long adpressed hairs on both surfaces, silky when young; heads terminal, many-flowered; involucral bracts similar to the upper leaves, long-silky; receptacle hemispherical; calyx white, 6 lin. long, densely villous outside, constricted and circumscissile about 1 1/2 lin. above the base, slightly wider above; lobes 5, ovate or oblong, 3/4 lin. long; upper anthers slightly exserted; ovary oblong; achene oblong, finely granular beneath the shining pellucid epidermis, enclosed in the glabrescent calyx-base. 
+
+Source:[Flora Capensis](http://plants.jstor.org/flora/floc012950?s=t) entry for *Arthrosolen calocephala* C.A. Meyer
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20calocephala
 * http://redlist.sanbi.org/species.php?species=2931-10
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+calocephala
@@ -757,6 +761,10 @@ Gnidia penicillata Lichtenst. ex Meisn. -- Linnaea 14: 448. 1841
 
 Gnidia phaeotricha Gilg -- in Kuntze, Revis. Gen. Pl. 3[3]: 281. 1898 [28 Sep 1898]
 
+stems slightly branched, 1 ft. or rather more high, at first hirsute, at length glabrous or nearly so, reddish-brown, 2 lin. in diam.; leaves alternate, usually oblong, acute, entire, 7 lin. long, 3 lin. wide, densely long-silky beneath, more sparingly so above; flowers in a short terminal spike; calyx urceolate, not expanded in the upper part, densely hairy outside, swollen in the lower 2 lin., cylindrical above; lobes 4, 3/4 lin. long, 1/4 lin. wide, oblong, rounded at the apex, all alike; petals 0; stamens 8 in 2 series; anthers dark brown, subsessile; ovary ovate, compressed, 1 lin. long, with a terminal tuft of straight hairs; style excentric, filiform, reaching to the lower anthers; stigma slightly enlarged. null
+
+Source: [Flora Capensis](http://plants.jstor.org/flora/floc012958?s=t) entry for *Arthrosolen phaetotrichus*
+
 Distribution: MPU, KZN, EC, FS
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20phaeotricha
@@ -990,6 +998,11 @@ Near Port Natal on the grassy earth , below in height . 100 feet . ( V c . )
 
 By The Associated pubescent all beautifully silky - shining, the leaves and flowers of the short form of easily finding . Branches scattered, thin , young men ap packed subsericea whitish leaves scars scarcely prominent, internodes usually 3-5 lines . long. The leaves are sparse , rarely approximate five - subopposite open . semipatula , sessile vol. subsessile , flat, subtriplinervia , sometimes acuminate , pale yellowish- green, the underside white can be all things ( especially the younger ones ) beautifully silky- shining, as well as the size of the rest of Involucral than the form of the like. The chapters on the end sessile , flowers 7-8 lines . long, envelope and placed fifth . Param longer , however . G. cuneate .
 
+---
+a much-branched shrub; branches at first densely adpressed-silky, leaf-scars small; leaves alternate, lanceolate or oblanceolate, acute, up to nearly 12 lin. long and 3 lin. wide, densely clothed with adpressed silvery silky hairs; involucral leaves scarcely wider than the cauline; flowers in terminal sessile heads; calyx 8 lin. long, subcylindrical slightly inflated above, densely silky outside, hairs longer in the lower part; lobes oblong, obtuse, 2 1/2 lin. long, 2/3 lin. wide, rather thick, yellow (Wood); petals 1/2 lin. long, ovate, membranous; anthers oblong, obtuse, 1/2 lin. long; ovary oblong, compressed, glabrous; style as long as the calyx-tube; stigma capitate.
+
+Source: [Flora Capensis](http://plants.jstor.org/flora/floc013136?s=t) entry for *Lasiosiphon splendens* Endl.
+
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20splendens
 * http://redlist.sanbi.org/species.php?species=2931-88
@@ -1117,6 +1130,14 @@ Gnidia tomentosa L. -- Sp. Pl. 1: 358. 1753 [1 May 1753]
 Gnidia variabilis (C.H.Wright) Engl. -- in Engl. Pflanzenw. Afr. iii. II. (Engl. & Drude, Veg. der Erde, ix.) 630 (191), in obs.
 
 Distribution: MPU
+
+Description:
+stem slender, terete, woody, glabrous; branches many, virgate, covered at least when young with rather long adpressed hairs; leaves alternate, more rarely subopposite, sessile, oblong or oblong-lanceolate, acute at both ends, silky beneath, glabrous or nearly so above, about 6 lin. long and 1–1 1/2 lin. wide; flowers in a gradually elongating terminal spike; bracts shorter than the calyx; calyx 3–4 lin. long, fleshy, pink or yellowish, persistent part ovoid, about 1 1/2 lin. long; tube cylindrical, adpressed-hairy outside; lobes 4, obtuse, about 3/4 lin. long, outer ovate, 1/2 lin. wide, inner oblong, 1/3 lin. wide; stamens 8; ovary ovate, compressed, tipped by a tuft of straight white hairs 1/3 lin. long; style excentric, reaching to the lower anthers; fruit ovoid, acuminate, 1 1/2 lin. long. null
+
+Notes:
+This species varies in the length and colour of its calyx and also in the length and amount of the indumentum upon it. No satisfactory line can be drawn between the forms included here, which merit further study in the field.
+
+Source: [Flora Capensis](http://plants.jstor.org/flora/floc012957?s=t) entry for *Arthrosolen variabilis* C.H. Wright
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20variabilis
 * http://redlist.sanbi.org/species.php?species=2931-101
