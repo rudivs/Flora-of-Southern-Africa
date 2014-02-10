@@ -864,7 +864,14 @@ Distribution: MPU, KZN
 
 Gnidia rubescens B.Peterson -- Bot. Not. 119: 345. 1966
 
-Distribution: MPU, KZN
+**Description:**
+Shrub or subshrub up to 60cm high with erect, slender branches from a woody rootstock. Unbranched or sparingly branched. Stems quite glabrous, usually terminated by an inflorescence. Leaves sparse above, densely clustered towards the base, alternate, entire, narrowly oblanceolate, acute, glabrous (9-)12-18(-23) mm long, 1.5-4 mm broad, shortly petiolated (1 mm). Inflorescensce globose, 12-18 mm in diameter, ca 20-40 flowers; peduncle glabrous, 2-14 cm long. Involucral bracts (6-)8(-9), herbaceous green, ovate, acute (-acuminate), 5-8 mm long, 2-4 mm broad, glabrous or with a few scattered hairs on the lower side, occasionally sparsely ciliated. Flowers (4-)5-merious, at first yellow later rubescent, pedicel hairy, 1 mm long. Calyx tube funnel-shaped, (7-)8-10(-12) mm long, circumsessile above the ovary, lower part with 3-4 mm long hairs, upper part with +/-1 mm long hairs. Calyx-lobes broadly obovate--suborbicular, obtuse, glabrous above, sericeous below, 1-2 mm broad. Petals 0. Stamens 10 in 2 whorls, the upper shortly exserted; anthers subsessile, 3/4 mm long. Ovary sparsely hairy at apex, style 2-3 mm long, stigma club-shaped. Seed glabrous, 3 mm long.
+
+**Notes:**
+Closely related to *Gnidia sericocephala*. Although rather identical in habit and size, the two species are readily distinguished in nature and in herbarium specimens by the colour of the flowers, yellow in *G. sericocephala*, and yellow but very soon turning red orange in *G. rubescens*. The stems and peduncles are quite glabrous in *G. rubescens* but sericeous or pilose in *G. sericocephala*. The larger calyx-lobes of *G. rubescens* is another difference.
+*G. rubescens* grows on drier soil than *G. sericocephala*. It is locally rather frequent in open spaces among trees and usually more or less gregarious.
+
+**Distribution:** MPU, KZN
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20rubescens
 * http://redlist.sanbi.org/species.php?species=2931-76
