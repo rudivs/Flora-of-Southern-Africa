@@ -6,7 +6,7 @@
 * [Lasiosiosiphon caffer](#lasiosiphon-caffer)
 * [Lasiosiosiphon calocephalus](#lasiosiphon-calocephalus)
 * [Lasiosiosiphon capitatus](#lasiosiphon-capitatus)
-* [Lasiosiosiphon meisnerianus](#lasiosiphon-cuneatus) (=Gnidia cuneata)
+* [Lasiosiosiphon meisnerianus](#lasiosiphon-meisnerianus) (=Gnidia cuneata)
 * [Lasiosiosiphon dregeanus](#lasiosiphon-dregeanus)
 * [Lasiosiosiphon kraussianus var. kraussianus](#lasiosiphon-kraussianus-var-kraussianus)
 * [Lasiosiosiphon macropetalus](#lasiosiphon-macropetalus)
