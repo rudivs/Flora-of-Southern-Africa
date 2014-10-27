@@ -149,6 +149,8 @@ Gnidia capitata is one of the first species to flower, usually before the rains
 
 Gnidia deserticola Gilg -- Bot. Jahrb. Syst. 19(2-3): 263. 1894 [21 Aug 1894]
 
+a much-branched shrub; branches spreading, woody, pubescent when very young, soon glabrous, grey, leaf-scars small but prominent; leaves usually clustered at the ends of the branches, oblong, obtuse, 6 mm long, 2 mm wide, acute, subcoriaceous, hispidulous; involucral leaves rather wider, velvety; flowers 5–7, terminal; calyx densely silky outside, basal part furnished with long hairs; tube 12 mm long, subcylindrical; lobes oblong, rounded at the apex, 3 mm long, 2 mm wide, yellow; petals very small, membranous, hyaline; anthers oblong, obtuse, 1 mm long, larger than the petals; ovary small, oblong, glabrous; style much shorter than the calyx-tube, rigid; stigma capitate.
+
 * http://www.ispot.org.za/species_dictionary/Gnidia%20deserticola
 * http://redlist.sanbi.org/species.php?species=2931-23
 * http://posa.sanbi.org/flora/results.php?taxon=genno=2931,spno=23&showdetail=T
