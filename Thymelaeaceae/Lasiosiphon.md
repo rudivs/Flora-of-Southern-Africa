@@ -1,6 +1,5 @@
 ###Index to Lasiosiphon of KwaZulu-Natal
 
-* [Lasiosiosiphon albosericea](#lasiosiphon-albosericea)
 * [Lasiosiosiphon anthylloides](#lasiosiphon-anthylloides)
 * [Lasiosiosiphon burchellii](#lasiosiphon-burchellii)
 * [Lasiosiosiphon caffer](#lasiosiphon-caffer)
@@ -11,6 +10,7 @@
 * [Lasiosiosiphon kraussianus var. kraussianus](#lasiosiphon-kraussianus-var-kraussianus)
 * [Lasiosiosiphon macropetalus](#lasiosiphon-macropetalus)
 * [Lasiosiosiphon nanus](#lasiosiphon-nanus) (=Gnidia robusta)
+* [Lasiosiosiphon ornatus](#lasiosiphon-ornatus) (=Gnidia albosericea)
 * [Lasiosiosiphon polyanthus](#lasiosiphon-polyanthus)
 * [Lasiosiosiphon polycephalus](#lasiosiphon-polycephalus)
 * [Lasiosiosiphon pulchellus](#lasiosiphon-pulchellus)
@@ -19,7 +19,6 @@
 
 ###Index to Lasiosiphon of Mpumalanga
 
-* [Lasiosiphon albosericea](#lasiosiphon-albosericea)
 * [Lasiosiphon burchellii](#lasiosiphon-burchellii)
 * [Lasiosiphon caffer](#lasiosiphon-caffer)
 * [Lasiosiphon calocephalus](#lasiosiphon-calocephalus)
@@ -27,6 +26,7 @@
 * [Lasiosiphon capitatus](#lasiosiphon-capitatus)
 * [Lasiosiphon kraussianus var. kraussianus](#lasiosiphon-kraussianus-var-kraussianus)
 * [Lasiosiosiphon nanus](#lasiosiphon-nanus) (=Gnidia robusta)
+* [Lasiosiosiphon ornatus](#lasiosiphon-ornatus) (=Gnidia albosericea)
 * [Lasiosiphon polyanthus](#lasiosiphon-polyanthus)
 * [Gnidia rubescens](#gnidia-rubescens)
 * [Lasiosiphon sericocephalus](#lasiosiphon-sericocephalus)
@@ -38,16 +38,6 @@ Species ± 140, mainly Africa, few extending to Madagascar and India; ± 97 in s
 Shrubs or perennial herbs arising from a woody base or rhizome. Leaves alternate, rarely opposite. Inflorescences consisting of bracteate few-many-flowered heads. Flowers bisexual, 4-5-merous. Calyx-tube cylindric, usually articulated above the ovary, lobes coloured. Petals alternating with the calyx lobes, sometimes 0. Stamens in 2 whorls in the throat of the calyx tube. Fruit dry, small.
 
 Source: [Seed Plants of southern Africa][1], [Flora of Zimbabwe][2]
-
-####Lasiosiphon albosericea
-Gnidia albosericea M.Moss ex B.Peterson -- Bothalia 14(1): 81 (1982), nom. nov.
-
-Distribution: KZN, MPU
-
-* http://www.ispot.org.za/species_dictionary/Gnidia%20albosericea
-* http://redlist.sanbi.org/species.php?species=2931-2
-* http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+albosericea
-* [Tropicos](http://www.tropicos.org/Name/32000169)
 
 ####Lasiosiphon anthylloides
 
@@ -251,6 +241,15 @@ Not in IPNI. According to The Plant List, a synonym of Gnidia hirsuta
 * http://redlist.sanbi.org/species.php?species=2931-141
 * http://posa.sanbi.org/flora/results.php?taxon=genno=2931,spno=141&showdetail=T
 * http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+ornata
+
+Gnidia albosericea M.Moss ex B.Peterson -- Bothalia 14(1): 81 (1982), nom. nov.
+
+Distribution: KZN, MPU
+
+* http://www.ispot.org.za/species_dictionary/Gnidia%20albosericea
+* http://redlist.sanbi.org/species.php?species=2931-2
+* http://sibis.sanbi.org/faces/Remote/RemoteRequest.jsp?type=species&value=Gnidia+albosericea
+* [Tropicos](http://www.tropicos.org/Name/32000169)
 
 ####Lasiosiphon pedunculatus
 
