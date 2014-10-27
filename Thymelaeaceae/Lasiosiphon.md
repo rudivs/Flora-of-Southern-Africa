@@ -12,7 +12,6 @@
 * [Lasiosiosiphon nanus](#lasiosiphon-nanus) (=Gnidia robusta)
 * [Lasiosiosiphon ornatus](#lasiosiphon-ornatus) (=Gnidia albosericea)
 * [Lasiosiosiphon polyanthus](#lasiosiphon-polyanthus)
-* [Lasiosiosiphon polycephalus](#lasiosiphon-polycephalus)
 * [Lasiosiosiphon pulchellus](#lasiosiphon-pulchellus)
 * [Lasiosiosiphon splendens](#lasiosiphon-splendens)
 * [Lasiosiosiphon triplinervis](#lasiosiphon-triplinervis)
