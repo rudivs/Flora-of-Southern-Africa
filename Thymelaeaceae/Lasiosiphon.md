@@ -43,6 +43,8 @@ Source: [Seed Plants of southern Africa][1], [Flora of Zimbabwe][2]
 
 Gnidia anthylloides Gilg -- Bot. Jahrb. Syst. 19(2-3): 265, in obs. 1894 [21 Aug 1894]
 
+A slender, branched shrub of variable habit 0.6-1.5 m; branches at first densely villous, leaf-scars small but prominent; leaves alternate, imbricate, lanceolate or oblong, adpressed-silky on both surfaces, sessile, about 12-23 mm long and 5-10 mm wide, crowded on younger parts of stems; flowers in dense terminal sessile heads of up to 20 flowers, c. 50 mm in diameter; calyx-tube 24–30 mm long, densely woolly outside, gradually widened upwards; lobes elliptic, obtuse, 6 mm long, 4 mm wide, bright lemon-yellow; petals minute and tooth-like, or obsolete; anthers oblong, obtuse, 1.5 mm long; ovary oblong; style filiform, nearly as long as the calyx-tube; stigma capitate.
+
 Distribution: KZN, EC, WC
 
 * http://www.flickr.com/photos/craig_gibbon/6303139117/
@@ -57,13 +59,13 @@ Distribution: KZN, EC, WC
 
 Gnidia burchellii Gilg -- Nat. Pflanzenfam. [Engler & Prantl] iii. 6a (1894) 229.
 
+Description:
+A much branched shrub or undershrub, 60–120 cm tall. Stems erect or suberect, pilose to villose, glabrescent, reddish when young. Leaves alternate, usually crowded at upper part of the branches, merging into the involucral bracts, subsessile, (6)12–25(32) × 1.5–4(6) mm, linear, narrowly elliptic to narrowly obovate, acute to acuminate, dull green, glabrous to appressed sericeous pubescent on both sides. Inflorescence a terminal sessile 15–30-flowered head with no distinctly marked leafless peduncle. Bracts 8–12, leaf-like, 10–20 × 2.5–5 mm, elliptic to narrowly ovate, acute to acuminate, pale green, densely sericeous on both sides. Flowers 5-merous, yellow to orange, sessile or subsessile. Calyx tube 12–25 mm long, appressed silky hairs outside, glabrous inside, circumscissile above the ovary; lobes 4–8 × 2–3 mm, elliptic to ovate, obtuse, entire or sometimes emarginate, white, light yellow above, paler outside, appressed silky beneath. Petals ligulate or club-shaped, c. 1 mm long. Stamens 10, 5 inserted in the mouth of the calyx tube with anthers almost entirely exserted, 5 inserted 3–4 mm within the tube; anthers 1.3–2 mm long. Ovary ovoid, 2–3 mm long, glabrous or sometimes with a few hairs at top; style often as long as the calyx tube; stigma capitate.
+
 Distribution: MPU, LMP, KZN, GT, FS, NW, NC, EC, WC
 
 Habitat:
 On reddish, stony, and sometimes clayey soil in open short grassland, shrub savanna, <i>Acacia</i> veld, also on hillslopes; 10–1700 m.
-
-Description:
-A much branched shrub or undershrub, 60–120 cm tall. Stems erect or suberect, pilose to villose, glabrescent, reddish when young. Leaves alternate, usually crowded at upper part of the branches, merging into the involucral bracts, subsessile, (6)12–25(32) × 1.5–4(6) mm, linear, narrowly elliptic to narrowly obovate, acute to acuminate, dull green, glabrous to appressed sericeous pubescent on both sides. Inflorescence a terminal sessile 15–30-flowered head with no distinctly marked leafless peduncle. Bracts 8–12, leaf-like, 10–20 × 2.5–5 mm, elliptic to narrowly ovate, acute to acuminate, pale green, densely sericeous on both sides. Flowers 5-merous, yellow to orange, sessile or subsessile. Calyx tube 12–25 mm long, appressed silky hairs outside, glabrous inside, circumscissile above the ovary; lobes 4–8 × 2–3 mm, elliptic to ovate, obtuse, entire or sometimes emarginate, white, light yellow above, paler outside, appressed silky beneath. Petals ligulate or club-shaped, c. 1 mm long. Stamens 10, 5 inserted in the mouth of the calyx tube with anthers almost entirely exserted, 5 inserted 3–4 mm within the tube; anthers 1.3–2 mm long. Ovary ovoid, 2–3 mm long, glabrous or sometimes with a few hairs at top; style often as long as the calyx tube; stigma capitate.
 
 Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?qry=namelist&flora=fz&taxon=11819&nameid=30388)
 
@@ -78,15 +80,16 @@ Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?qry=namelis
 
 Gnidia caffra (Meisn.) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853#page/641/mode/1up)
 
+Description:
+An undershrub, 20–60 cm in height, with stout perennial taproot. Branches slender, suberect to erect, glabrous or sparingly pubescent, glabrescent, yellowish. Leaves alternate, imbricate, later spreading, subsessile or with pubescent petiole 1–2 mm long; lamina (8)14–30(43) × (1)2–4(10) mm, narrowly elliptic to narrowly ovate or obovate, acute, glabrous or sparingly pubescent above, glabrous to pubescent beneath, glabrescent. Inflorescence a terminal 2–8-flowered head, often overlapped by 1 or 2 of the uppermost branchlets; peduncle 1–5(12) mm long. Involucral bracts 3–6, (5)8–18(22) × 2–4(7) mm, ovate, acuminate, sometimes ± similar to the apical leaves, glabrous to sparingly pubescent above, glabrous to appressed white-pubescent on the lower side. Flowers 5-merous, pale or golden-yellow, sessile or with a c. 1 mm long pedicel. Calyx tube (8)12–18(24) mm long, densely white or silvery pubescent outside, glabrous within, circumscissile above the ovary; lobes (3)4–6(11) × (1)2–4(6) mm, elliptic to ovate, obtuse, pubescent outside. Petals minute to ligulate, membranous, 0.5–1 mm long. Stamens subsessile; anthers 1–2 mm long. Ovary glabrous below, hairy at top; style 2–4 mm long, sometimes exserted. Fruit glabrous except for a few hairs at the top.
+
+Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817)
+
 Distribution: MPU, KZN, LMP, GP, NW, FS, EC
 
 Habitat:
 In grassland; 200–300 m.
 
-Description:
-An undershrub, 20–60 cm in height, with stout perennial taproot. Branches slender, suberect to erect, glabrous or sparingly pubescent, glabrescent, yellowish. Leaves alternate, imbricate, later spreading, subsessile or with pubescent petiole 1–2 mm long; lamina (8)14–30(43) × (1)2–4(10) mm, narrowly elliptic to narrowly ovate or obovate, acute, glabrous or sparingly pubescent above, glabrous to pubescent beneath, glabrescent. Inflorescence a terminal 2–8-flowered head, often overlapped by 1 or 2 of the uppermost branchlets; peduncle 1–5(12) mm long. Involucral bracts 3–6, (5)8–18(22) × 2–4(7) mm, ovate, acuminate, sometimes ± similar to the apical leaves, glabrous to sparingly pubescent above, glabrous to appressed white-pubescent on the lower side. Flowers 5-merous, pale or golden-yellow, sessile or with a c. 1 mm long pedicel. Calyx tube (8)12–18(24) mm long, densely white or silvery pubescent outside, glabrous within, circumscissile above the ovary; lobes (3)4–6(11) × (1)2–4(6) mm, elliptic to ovate, obtuse, pubescent outside. Petals minute to ligulate, membranous, 0.5–1 mm long. Stamens subsessile; anthers 1–2 mm long. Ovary glabrous below, hairy at top; style 2–4 mm long, sometimes exserted. Fruit glabrous except for a few hairs at the top.
-
-Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817)
 
 * http://www.sntc.org.sz/flora/speciesinfo.asp?spid=2050
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacaffra&qry=browse&taxon=11817
@@ -99,11 +102,11 @@ Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&tr
 
 Gnidia calocephala (Meisn.) Gilg -- [Die Natürlichen Pflanzenfamilien 3(6a): 228. 1894. (10 Jul 1894)](http://biodiversitylibrary.org/page/16816085)
 
-Distribution: MPU, KZN, EC
-
-a branched shrub about 1 1/2 ft. high; branches virgate, usually simple, slender, terete, often reddish-brown, pilose; leaves oblong-lanceolate, up to 1 1/4 in. long and 4 lin. wide, the uppermost sometimes elliptic, 7 lin. long, 4 lin. wide, all acute or subobtuse, with numerous long adpressed hairs on both surfaces, silky when young; heads terminal, many-flowered; involucral bracts similar to the upper leaves, long-silky; receptacle hemispherical; calyx white, 6 lin. long, densely villous outside, constricted and circumscissile about 1 1/2 lin. above the base, slightly wider above; lobes 5, ovate or oblong, 3/4 lin. long; upper anthers slightly exserted; ovary oblong; achene oblong, finely granular beneath the shining pellucid epidermis, enclosed in the glabrescent calyx-base. 
+a branched shrub about 50 cm high; branches virgate, usually simple, slender, terete, often reddish-brown, pilose; leaves oblong-lanceolate, up to 30 mm long and 8 mm wide, the uppermost sometimes elliptic, 15 mm long, 8 mm wide, all acute or subobtuse, with numerous long adpressed hairs on both surfaces, silky when young; heads terminal, many-flowered; involucral bracts similar to the upper leaves, long-silky; receptacle hemispherical; calyx white, 12 mm long, densely villous outside, constricted and circumscissile about 3 mm above the base, slightly wider above; lobes 5, ovate or oblong, 1.5 mm long; upper anthers slightly exserted; ovary oblong; achene oblong, finely granular beneath the shining pellucid epidermis, enclosed in the glabrescent calyx-base. 
 
 Source:[Flora Capensis](http://plants.jstor.org/flora/floc012950?s=t) entry for *Arthrosolen calocephala* C.A. Meyer
+
+Distribution: MPU, KZN, EC
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20calocephala
 * http://redlist.sanbi.org/species.php?species=2931-10
@@ -116,9 +119,9 @@ Source:[Flora Capensis](http://plants.jstor.org/flora/floc012950?s=t) entry for 
 
 Gnidia canoargentea (C.H.Wright) Gilg -- [Die Vegetation der Erde 9/3(2): 634. 1921.](http://biodiversitylibrary.org/page/34220853)
 
-Distribution: MPU, KZN, LMP, GT, NW
+A much-branched shrub; branches densely adpressed white-silky when young, leaf-scars small but prominent; leaves alternate, oblong-lanceolate, 10 mm long, 3 mm wide, acute, densely clothed (especially on the lower surface) with adpressed silvery hairs; involucral leaves twice as broad as the cauline; flowers many in a terminal cluster; calyx pubescent outside, with longer hairs below; tube 12 mm long; lobes oblong, obtuse, 3 mm long, 2 mm wide; petals minute, tooth-like; anthers thrice as long as the petals; anthers oblong, obtuse, 1 mm long; ovary oblong, hairy at the apex; style slender, rigid, about as long as the calyx-tube; stigma capitate.
 
-A much-branched shrub; branches densely adpressed white-silky when young, leaf-scars small but prominent; leaves alternate, oblong-lanceolate, 5 lin. long, 1 1/3 lin. wide, acute, densely clothed (especially on the lower surface) with adpressed silvery hairs; involucral leaves twice as broad as the cauline; flowers many in a terminal cluster; calyx pubescent outside, with longer hairs below; tube 6 lin. long; lobes oblong, obtuse, 1 1/2 lin. long, 1 lin. wide; petals minute, tooth-like; anthers thrice as long as the petals; anthers oblong, obtuse, 1/2 lin. long; ovary oblong, hairy at the apex; style slender, rigid, about as long as the calyx-tube; stigma capitate.
+Distribution: MPU, KZN, LMP, GT, NW
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20canoargentea
 * http://redlist.sanbi.org/species.php?species=2931-12
@@ -130,6 +133,11 @@ A much-branched shrub; branches densely adpressed white-silky when young, leaf-s
 ####Lasiosiphon capitatus
 
 Gnidia capitata L.f. -- [Suppl. Pl. 224. 1782 [1781 publ. Apr 1782]](http://www.biodiversitylibrary.org/openurl?pid=title:555&volume=&issue=&spage=224&date=1781)
+
+Herbaceous, bushy perennial, 25–50 cm high to many-stemmed shrubs up to 80 cm. Branches slender, appressed pubescent, later glabrescent, sometimes glabrous, often reddish. Pubescence often confined to the upper parts of the stems and to the upper leaves as well. Leaves alternate, (10)15–32(40) × 2–5(6) mm, narrowly elliptic to narrowly ovate, sometimes narrowly obovate, acute, glabrous to pubescent on both sides, sometimes upper surface glabrous and lower ± pubescent, now and then silvery-green. Inflorescence 6–20(30)-flowered terminal heads, usually distinctly peduncled or sometimes subsessile; peduncle 5–80 mm long, usually thickened at the top, glabrous or appressed pubescent. Bracts 6–10, 6–13(18) × 2–3(5) mm, narrowly ovate to ovate, acute to obtuse, glabrous to ± silky pubescent on both sides, ciliate, often red, purple or brownish. Flowers (4)5-merous, bright or golden-yellow; pedicels 0.5–1 mm long, covered with erect 1–2 mm long hairs. Calyx tube (5)10–20(28) mm long, circumscissile above the ovary, appressed pubescent without, rarely glabrous, glabrous within; lobes 2–6 × 1.5–3 mm, narrowly ovate to ovate, sometimes suborbicular, acute, obtuse or rounded, pubescent beneath, glabrous above, rarely quite glabrous. Petals 5, rarely 4, 1–2(3) × 1–1.5 mm, ligulate, ovate or suborbicular, entire at apex, membranous, or very minute, rarely absent. Stamens 4(5) in 2 whorls, upper slightly exserted; upper anthers 1.5 mm long, lower c. 1 mm long. Ovary ovoid, glabrous; style usually shorter than the calyx tube, sometimes slightly exserted; stigma capitate.
+
+Notes:
+Gnidia capitata is one of the first species to flower, usually before the rains. It is a very variable species with regard to shape and size of the leaves and petals and also the pubescence of the whole plant. It frequently resembles some forms of Gnidia kraussiana.
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiacapitata&qry=browse&taxon=11818
 * http://www.ispot.org.za/species_dictionary/Gnidia%20capitata
@@ -149,6 +157,8 @@ Gnidia deserticola Gilg -- Bot. Jahrb. Syst. 19(2-3): 263. 1894 [21 Aug 1894]
 ####Lasiosiphon dregeanus
 
 Gnidia dregeana Meisn. -- Linnaea 14: 426. 1841
+
+branches adpressed-villous at the apex; leaves alternate, spreading, spathulate-oblong, obtuse, mucronulate, 10-16 mm long, 6-8 mm wide, adpressed-pilose on both surfaces; involucral leaves not wider than the cauline, rather silky, ciliate; calyx silky-villous; tube 12-16 mm long; lobes obtuse; petals minute, ovate.
 
 Distribution: KZN
 
@@ -188,6 +198,8 @@ Source: [Flora Zambesiaca](http://apps.kew.org/efloras/namedetail.do?flora=fz&tr
 
 Gnidia macropetala Meisn. -- London J. Bot. 2: 553 (err. typ. 453). 1843
 
+a small diffusely branched shrub; branches at first pubescent, rather slender, leaf-scars small but prominent; leaves alternate, more or less spathulate, adpressed-silky when young, less densely so when old, acute, 8-16 mm long, 4-5 mm wide; involucral leaves similar to the cauline; flowers in terminal heads; calyx silky outside; tube 12 mm long, subcylindrical; lobes oblong, obtuse, 3 mm long, 1.5 mm wide; petals 5, membranous, 2 mm long, 1.5 mm wide; anthers linear, 2 mm long; ovary oblong, glabrous; style filiform; stigma capitate.
+
 Distribution: KZN
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20macropetala
@@ -197,6 +209,8 @@ Distribution: KZN
 ####Lasiosiphon meisnerianus
 
 Gnidia cuneata Meisn. -- Linnaea 14: 427. 1841
+
+a much-branched shrub; branches rather stout, pubescent at first, leaf-scars not very prominent; leaves alternate, spathulate-oblong or lanceolate, narrowed at the base, up to 20 mm long and 4 mm wide, upper scarcely larger, adpressed-silky on both surfaces; flowers in terminal heads; calyx-tube 18-25 mm long, cylindrical, with long straight hairs below, pubescent above; lobes lanceolate, obtuse, 4 mm long, 1.5 mm wide; petals minute, bifid, membranous; anthers oblong, obtuse, 1.5 mm long; ovary oblong, glabrous; style nearly as long as the calyx-tube; stigma capitate.
 
 Distribution: KZN, EC
 
@@ -208,6 +222,8 @@ Distribution: KZN, EC
 ####Lasiosiphon microphyllus
 
 Gnidia microphylla Meisn. -- Linnaea 14: 432. 1841
+
+a dwarf undershrub, branched from the base; branches slender, rigid, glabrous; leaves alternate, rather distant, adpressed to the stem, linear-oblong, obtuse, glabrous, about 4 mm long and 1/3 mm wide; involucral leaves broadly ovate, acute, 6 mm long, 2.5 mm wide, puberulous; flowers in terminal heads; calyx-tube 14 mm long, with long silky hairs below, puberulous or glabrous above; lobes elliptic, obtuse, 3 mm long, 2 mm wide; petals small; anthers oblong; ovary shortly stalked, ovoid, glabrous; style nearly as long as the calyx-tube.
 
 * http://www.ispot.org.za/species_dictionary/Gnidia%20microphylla
 * http://redlist.sanbi.org/species.php?species=2931-50
@@ -263,7 +279,7 @@ Gnidia pedunculata Beyers -- Bothalia 32(1): 79 (2002).
 
 Gnidia polyantha Gilg -- [Bot. Jahrb. Syst. 19(2-3): 265. 1894 (21 Aug 1894)](http://biodiversitylibrary.org/page/204090#page/277/mode/1up)
 
-an undershrub, more or less branched from the base; branches rather stout, pilose at first, leaf-scars prominent; leaves alternate, oblong, oval or ovate, acute, 15 lin. long, 5 lin. wide, 5-nerved, densely adpressed-silky on both surfaces; involucral leaves similar to the cauline but more densely silky; heads terminal, sessile, up to 40-flowered; calyx spreading-pilose outside; tube about 1 lin. long, slender, subcylindrical; lobes yellow, oblong-lanceolate, or oblong, 3 lin. long, 1 1/2 lin. wide; petals minute, oblong, 1/3 lin. long; anthers oblong, twice as long as the petals; ovary oblong; style slightly shorter than the calyx-tube; stigma capitate.
+an undershrub, more or less branched from the base; branches rather stout, pilose at first, leaf-scars prominent; leaves alternate, oblong, oval or ovate, acute, 30 mm long, 10 mm wide, 5-nerved, densely adpressed-silky on both surfaces; involucral leaves similar to the cauline but more densely silky; heads terminal, sessile, up to 40-flowered; calyx spreading-pilose outside; tube about 2 mm long, slender, subcylindrical; lobes yellow, oblong-lanceolate, or oblong, 6 mm long, 3 mm wide; petals minute, oblong, 2/3 mm long; anthers oblong, twice as long as the petals; ovary oblong; style slightly shorter than the calyx-tube; stigma capitate.
 
 Source: [Flora Capensis](http://plants.jstor.org/flora/floc013147?s=t) entry for *Lasiosiphon polyanthus* Gilg 
 
@@ -277,6 +293,8 @@ Distribution: KZN, FS, EC
 
 Gnidia polycephala Gilg ex Engl. -- Bot. Jahrb. Syst. 19(1): 138 et 264, in obs. 1894 [13 Apr 1894]
 
+Much branched virgate undershrub, 30–70 cm high. Branches slender, erect or suberect, outer sometimes decumbent, glabrous, early leafless, glaucous. Leaves alternate, scattered, subsessile; lamina 5–13 × 1–2(3) mm, narrowly elliptic, linear or sometimes narrowly ovate, acute at top, attenuated at the base, pale or greyish-green, glabrous. Inflorescence a terminal, pedunculate head, 4–5(10)-flowered. Involucral bracts imbricate, usually in 3 rows, 8–14 × 6–10 mm, ovate to broadly ovate, rounded at the base, obtuse to acute at the apex, the outermost generally smallest, appressed silky pubescent outside, glabrous on margins and within, membranous, concave, cream, yellow, red or reddish-brown, persistent. Flowers 5-merous, rarely 4-merous, yellow, with delicious powerful scent; pedicels 1–2 mm long, densely sericeous pilose. Calyx tube (10)12–15(20) mm long, circumscissile, densely villous with 8–10 mm long erect silky hairs below, densely appressed pubescent above the articulation; lobes 2–4 × 1–2.5 mm, round to oblong, obtuse or subacute, appressed silky pubescent beneath, glabrous above. Petals none. Stamens (8)10, subsessile, in two whorls, the upper one exserted; anthers narrowly oblong, c. 1 mm long. Ovary glabrous or with a few apical hairs; style reaching the calyx throat; stigma capitate. Fruit ovoid, c. 4 mm long.
+
 Distribution: GT, NW, FS, NC, EC, WC
 
 * http://apps.kew.org/efloras/namedetail.do?flora=fz&treeid=191Gnidiapolycephala&qry=browse&taxon=11824
@@ -287,6 +305,8 @@ Distribution: GT, NW, FS, NC, EC, WC
 ####Lasiosiphon pulchellus
 
 Gnidia pulchella Meisn. -- Linnaea 14: 425. 1841
+
+branches virgate, slender, glabrous; leaves alternate, linear-lanceolate or subspathulate, mucronate or obtuse, 12-15 mm long, 3-5 mm wide, glabrous; involucral leaves 8–12, spathulate, scarcely wider than the cauline; heads sessile or shortly stalked, many-flowered; calyx densely adpressed-silky, 25 mm long; lobes narrowly oblong, 4 mm long.
 
 Distribution: KZN, EC
 
@@ -367,7 +387,7 @@ Near Port Natal on the grassy earth , below in height . 100 feet . ( V c . )
 By The Associated pubescent all beautifully silky - shining, the leaves and flowers of the short form of easily finding . Branches scattered, thin , young men ap packed subsericea whitish leaves scars scarcely prominent, internodes usually 3-5 lines . long. The leaves are sparse , rarely approximate five - subopposite open . semipatula , sessile vol. subsessile , flat, subtriplinervia , sometimes acuminate , pale yellowish- green, the underside white can be all things ( especially the younger ones ) beautifully silky- shining, as well as the size of the rest of Involucral than the form of the like. The chapters on the end sessile , flowers 7-8 lines . long, envelope and placed fifth . Param longer , however . G. cuneate .
 
 ---
-a much-branched shrub; branches at first densely adpressed-silky, leaf-scars small; leaves alternate, lanceolate or oblanceolate, acute, up to nearly 12 lin. long and 3 lin. wide, densely clothed with adpressed silvery silky hairs; involucral leaves scarcely wider than the cauline; flowers in terminal sessile heads; calyx 8 lin. long, subcylindrical slightly inflated above, densely silky outside, hairs longer in the lower part; lobes oblong, obtuse, 2 1/2 lin. long, 2/3 lin. wide, rather thick, yellow (Wood); petals 1/2 lin. long, ovate, membranous; anthers oblong, obtuse, 1/2 lin. long; ovary oblong, compressed, glabrous; style as long as the calyx-tube; stigma capitate.
+a much-branched shrub; branches at first densely adpressed-silky, leaf-scars small; leaves alternate, lanceolate or oblanceolate, acute, up to nearly 14 mm long and 6 mm wide, densely clothed with adpressed silvery silky hairs; involucral leaves scarcely wider than the cauline; flowers in terminal sessile heads; calyx 16 mm long, subcylindrical slightly inflated above, densely silky outside, hairs longer in the lower part; lobes oblong, obtuse, 5 mm long, 1.5 mm wide, rather thick, yellow (Wood); petals 4 mm long, ovate, membranous; anthers oblong, obtuse, 1 mm long; ovary oblong, compressed, glabrous; style as long as the calyx-tube; stigma capitate.
 
 Source: [Flora Capensis](http://plants.jstor.org/flora/floc013136?s=t) entry for *Lasiosiphon splendens* Endl.
 
@@ -380,4 +400,7 @@ Source: [Flora Capensis](http://plants.jstor.org/flora/floc013136?s=t) entry for
 
 Lasiosiphon triplinervis (Meisn.) Decne.
 
+a much-branched shrub; branches glabrous, slender, leaf-scars small but prominent; leaves alternate, oblanceolate, very shortly cuspidate, up to 14 mm long and 5 mm wide, quite glabrous, midrib prominent beneath; involucral leaves ovate, 8 mm long, 5 mm wide, acute, ciliate; flowers numerous in terminal clusters; calyx-tube silky outside, hairs longer below, cylindrical, 20-30 mm long; lobes oblong, obtuse, 5 mm long, 3 mm wide; petals 5, membranous, obovate, 2 mm long, 1 mm wide; anthers linear, nearly 2 mm long; ovary ovate, compressed; style longer than the calyx-tube; stigma small.
+
 * http://redlist.sanbi.org/species.php?species=2926-20
+* http://plants.jstor.org/flora/floc013155
