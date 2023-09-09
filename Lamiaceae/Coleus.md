@@ -1,5 +1,8 @@
 # Coleus of Mpumalanga and Limpopo
 
+Updates to this document will be published here: 
+https://github.com/rudivs/Flora-of-Southern-Africa/blob/master/Lamiaceae/Coleus.md
+
 ### Description
 
 Annual or perennial herbs or shrubs, sometimes succulent (juicy/fleshy), sometimes with a fleshy or tuberous rootstock (thickened underground part of a stem). Leaves opposite, sometimes whorled (arranged in a ring around the stem). Inflorescence (the arrangement of flowers on the plant) thyrsoid (a type of branched inflorescence), strongly condensed to lax (ranging from closely packed to loose), with cymes (a type of flower cluster) that are either directly attached (sessile) or on a stalk (pedunculate), sometimes with long spirally-coiled (cincinnate) branches, 1– many-flowered; bracts (modified leaves that are often associated with a flower or flower cluster) subtending (situated beneath or supporting) cymes usually not lasting beyond the flowering phase, sometimes standing upright forming a hair-like tip (coma) at the top of the flowering stem. Flowers either directly attached (sessile) or on a small stalk (pedicellate), sometimes arranged in a spiral on the inflorescence axis (central stem of the flower cluster). 
